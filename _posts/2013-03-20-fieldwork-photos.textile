@@ -5,15 +5,73 @@ title: "Fieldwork photos"
 
 h1. {{ page.title }}
 
-Here's some photos from my trip to the Tembé village...
+I recently visited the Tembé village, and wrote about it here ("Androids in Amazonia":https://theconversation.edu.au/androids-in-amazonia-recording-an-endangered-language-12865). This post is a work in progress, where I'm gradually adding photos from that trip.
 
-!</images/tembe-equipment.jpg!
-The equipment I took to the Tembé village:
-phones, recorders, video camera, head-torches, tripod, etc
+!</images/2013-03-Tembe/equipment.jpg!
+Fieldwork equipment: phones, recorders, video camera, head-torches, tripods, batteries, etc
 
-!</images/tembe-team.jpg!
-The people who went:
-Isaac McAlister, me, Katie Gelbart
+!</images/2013-03-Tembe/team.jpg!
+My little team, with Isaac McAlister and Katie Gelbart
+
+!</images/2013-03-Tembe/road.jpg!
+Crossing the digital divide: the road out of Paragominas
+
+!</images/2013-03-Tembe/sign.jpg!
+The sign at the edge of the Indian reservation
+
+!</images/2013-03-Tembe/forest.jpg!
+In lush rainforest
+
+!</images/2013-03-Tembe/cooking.jpg!
+Preparing fish at Emidio's house
+
+!</images/2013-03-Tembe/fire.jpg!
+A cooking fire
+
+!</images/2013-03-Tembe/arrowheads.jpg!
+Elias's stock of arrows
+
+!</images/2013-03-Tembe/augustine.jpg!
+Working with Augustine
+
+!</images/2013-03-Tembe/beads.jpg!
+Beadwork is a major activity -- this set of bracelets was the sole decoration on a wall
+
+!</images/2013-03-Tembe/exit.jpg!
+A stop on our exit after a three hour ride in the tray; one hour to go
+
+!</images/2013-03-Tembe/festa.jpg!
+The festa, with all night singing and dancing
+
+!</images/2013-03-Tembe/grasshopper.jpg!
+This grasshopper is almost a bird
+
+!</images/2013-03-Tembe/hammock.jpg!
+Everyone sleeps in hammocks to keep off the ground and out of reach of creepy crawlies
+
+!</images/2013-03-Tembe/house.jpg!
+My friend Roberto and his family
+
+!</images/2013-03-Tembe/houses.jpg!
+Dawn light on two Tembé houses
+
+!</images/2013-03-Tembe/boat.jpg!
+Outboard motor attached to a dugout canoe
+
+!</images/2013-03-Tembe/river.jpg!
+The river at the bottom of the village
+
+!</images/2013-03-Tembe/parrot.jpg!
+The life of a pet parrot
+
+!</images/2013-03-Tembe/turtle.jpg!
+Strung up by the exoskeleton awaiting its fate -- I wanted to free him!
+
+!</images/2013-03-Tembe/sidney.jpg!
+Tembé IT manager: cultural 
+
+!</images/2013-03-Tembe/woman.jpg!
+I saw this woman looking out of her window just as the rains passed
 
 
 
