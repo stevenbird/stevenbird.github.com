@@ -1,0 +1,27 @@
+---
+layout: page
+title: Software
+---
+
+h3. Natural Language Toolkit
+
+p. NLTK is a leading platform for building Python programs to work with human language data, including open source software and a free online book, available at "@http://nltk.org/@":http://nltk.org/ (collaboration with NLTK developers)
+
+h3. Annotation Graph Toolkit
+
+p. AGTK provides C++ and Java libraries for manipulating Annotation Graphs, a general purpose representation for linguistic annotation, available at "@http://agtk.sourceforge.net/@":http://agtk.sourceforge.net/ (collaboration with the Linguistic Data Consortium)
+
+h3. Toney
+
+p. Toney is software for phonetic classification, specialised for working with tone languages, available at "@http://langtech.github.com/toney/@":http://langtech.github.com/toney/ (implemented by Haejoong Lee)
+
+h3. Fangorn
+
+p. Fangorn is software for searching hierarchical linguistic annotations, available at "@http://code.google.com/p/fangorn/@":http://code.google.com/p/fangorn/ ("online system":http://nltk.ldc.upenn.edu:9090/index) (implemented by Sumukh Ghodke)
+
+h3. Informatics Virtual Learning Environment
+
+p. IVLE
+
+p. IVLE is an open source web-based interactive instructional system, consisting of an IDE coupled with secure server-based program execution, online tutorials, central file management, web publishing, project submission and automated assessment, available at "@http://www.ivle.org/@":http://www.ivle.org/ (implemented by Matt Giuca, David Coles, William Grant)
+

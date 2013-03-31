@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Fieldwork photos"
+---
+
+h1. {{ page.title }}
+
+h3. Equipment
+
+The equipment I took to the Tembé village:
+phones, recorders, video camera, head-torches, tripod, etc
+
+!/images/tembe-equipment.jpg!
+
+The people who went:
+Isaac McAlister, me, Katie Gelbart
+
+!/images/tembe-team.jpg!
+
+

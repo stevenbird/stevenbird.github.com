@@ -1,0 +1,35 @@
+---
+layout: page
+title: Projects
+---
+
+<table cellspacing="10">
+<tr><td> !/images/boldapp.png! </td><td>*Language Engineering in the Field*
+Investigating new approaches to language preservation using techniques from language engineering and leveraging the labour of mother-tongue speakers.<div id="note">&mdash; sponsored by the University of Melbourne, the Australian Research Council, and the Swiss National Science Foundation</div></td></tr>
+<tr><td> !/images/mt4lp.png! </td><td>*Machine Translation for Language Preservation*
+Exploring the use of machine translation to accelerate the global language documentation effort, by enabling speakers of endangered languages to create large collections of translated oral literature, in collaboration with USC.<div id="note">&mdash; sponsored by the National Science Foundation</div></td></tr>
+<tr><td> !/images/cs4hs.png! </td><td>*Computer Science for High School*
+Developing curriculum and training secondary teachers, in collaboration with Monash University and the Victorian Curriculum Assessment Authority.<div id="note">&mdash; sponsored by Google Australia</div></td></tr>
+<tr><td> !/images/language-commons.png!:http://languagecommons.org/ </td><td>*Language Commons*
+A consortium of academic, industrial and government institutions, creating a comprehensive collection of language resources, hosted in the Internet Archive under an open content license.</td></tr>
+<tr><td> !/images/png-prosody.png!:http://www.prosodicsystems.org/ </td><td>*Prosodic Systems in New Guinea*
+Integrating computational and typological approaches to linguistic analysis, in collaboration with UPenn, UC Berkeley and Australian National University. <div id="note">&mdash; sponsored by National Science Foundation</div></td></tr>
+<tr><td> !/images/png-oral.png!:http://boldpng.info/ </td><td>*Digital Technology for Language Preservation*
+Collection and transcription of oral literature in the languages of Papua New Guinea, with staff and students at three PNG universities. <div id="note">&mdash; sponsored by Olympus Imaging Corporation and Firebird Foundation for Anthropological Research</div></td></tr>
+<tr><td> !/images/bigasc.png!:http://austalk.edu.au/</td><td>*AusTalk*
+Recording and annotating Australian English speech, a collaboration involving ANU, UWS, UNSW, UQ, UWA, UTas, U Melbourne, U Sydney, U Canberra, Macquarie, Flinders. <div id="note">&mdash; sponsored by Australian Research Council</div></td></tr>
+<tr><td> !/images/oreilly.gif!:http://nltk.org/book </td><td>*Book on Language Analysis*
+_Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit_, Bird, Klein & Loper (500pp, "O'Reilly":http://oreilly.com/catalog/9780596516499, 2009), available as a free download; royalties support further development of the software.</td></tr><tr><td> !/images/nltk.png!:http://nltk.org/ </td><td>*Language Analysis Software*
+_Natural Language Toolkit_: Open source Python modules, linguistic data and documentation for research and development in natural language processing, supporting dozens of NLP tasks, with distributions for Windows, Mac OSX and Linux.</td></tr><tr><td> !/images/qldb.png!:http://projects.ldc.upenn.edu/QLDB/ </td><td>*Querying Linguistic Databases*
+Combining web, database, and IR technologies for exploratory analysis of large annotated linguistic databases. <div id="note">&mdash; sponsored by National Science Foundation, Australian Research Council, Microsoft Research</div></td></tr>
+</table>
+
+h3. Older Projects
+
+<table cellspacing="10">
+<tr><td> !/images/talkbank.png!:http://www.talkbank.org/ </td><td>*TalkBank (1999-2004)*
+Annotating databases of audio and video of communicative interaction, including child language, classroom discourse, gesture, and animal communication. <div id="note">&mdash; sponsored by National Science Foundation</div></td></tr><tr><td> !/images/cameroon-project.png!:http://www.ldc.upenn.edu/sb/home/papers/dictionary.pdf </td><td>*Fieldwork in Cameroon, West Africa (1995-97)*
+A project to create the first dictionary of the Yemba language (300,000 speakers), coordinating a team of 15 language experts over a two-year period.</td></tr><tr><td> !/images/cameroon-tone.png!:http://www.ldc.upenn.edu/sb/fieldwork/ </td><td>*Tone Analysis and Orthography Design (1995-97)*
+Studying the tone systems of the Grassfields language family, and experiments on different ways to mark tone in writing systems. <div id="note">&mdash; sponsored by the UK Economic and Social Research Council</div></td></tr><tr><td> !/images/phd.png!:http://www.amazon.com/Computational-Phonology-Constraint-Based-Approach-Processing/dp/0521474965 </td><td>*Book on Language Sound Structure (1987-90)*
+_Computational Phonology: A Constraint-Based Approach_: PhD thesis (Edinburgh 1990), published as a monograph (Cambridge University Press, 1995)</td></tr>
+</table>

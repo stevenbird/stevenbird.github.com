@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Present, Tense"
+---
+
+h1. {{ page.title }}
+
+In the steep hill country of the New Guinea Highlands, Waks runs his small family farm and – in his spare time – teaches other adults how to read and write his ancestral language. Waks is amongst the last generation of Usarufa speakers, who number only 1,000. No linguists have been here since the missionaries left in the 1970s, around the time Waks was born.
+
+It is a four hour drive from the provincial capital in bright morning sun. Our group includes my PhD student Florian Hanke, linguist Matt Taylor, and my 20-year-old son Andrew who has funded his way and will be our cook. We turn south off the Highlands Highway onto an unmarked and unmade road. I fidget with my mobile phone sending last text messages, until the connection blinks out. Radio silence. Forced into the present, tense.
+
+We negotiate decaying bridges, looking nervously down through loose boards into fast-flowing water. We round corners to find the road dominated by a landslide or car-sized boulder, but there is always a well-worn path around. We slow for an approaching truck, laden with Usarufas taking their goods out to the market. It pulls up beside us and I recognise a face in the crowd. That face lights up in recognition, and I call out. Janice! Suddenly this road feels safe, the kind of place where you pass old friends.
+
+
+We avoid the southern route where there have been reports of inter-tribal fighting. I recall stories about other travellers whose tyres were slashed with machetes and 
+
+ At our destination a welcoming party appears out of nowhere. Soon we are descending on muddy paths, falling often, while a line of sure-footed Usarufa men, women, and children snakes out in front. Our precious gear is tenuously perched on their heads.
+
+Waks’ house is a rough circular hut divided into two rooms, with a mud floor, roofed with grass. His window opens to a million dollar view across the deep valley to the west, and a breathtaking series of ridges and peaks. Sunlight slants through the banking afternoon stormclouds, highlighting random features of the scene. Just below the window is Waks’ desk, covered with his books and notes. Despite of his lack of formal education beyond the early years of high school, Waks’ desk is that of a serious scholar. I feel suddenly humbled.
+
+Working our way deeper into the valley on a sharply descending ridge, we arrive at a building that Waks has constructed out of flattened bamboo, with a metal roof: the literacy building. It is clean, airy, and dry, and will be perfect for our needs. We pitch our tents in one room. An adjacent intervening kitchen room has a fireplace dug into the mud floor, blackened walls, and is surrounded by deep beds of dry leaves for seating. The third room will be used for our field test. Soon our equipment is set up: solar panel feeding car battery feeding inverter feeding wifi router feeding network storage. We power everything down to save electricity, and sit in the dark around the cooking fire, keeping our seating away from the flames, and explaining our plans to Waks in a mixture of English and Tok Pisin.
+
+The next day we host a village feast. We contribute a box of frozen meat, which is cooked with green vegetables in a traditional mumu (or ground oven). People arrive steadily through the morning. After eating, we set up a bench and invite people to tell stories. Waks asks if we would like the children to be sent away, since they cannot understand Usarufa, but I ask for them to stay. A dozen people get up in turn to recount a story. They are all highly animated, and the 50-strong audience responds enthusiastically.
+
+In the afternoon, eight Usarufa men and women stay back with us in the literacy classroom. All have volunteered to give us three days of their time to work on their language. We give a short demonstration of our mobile app and hand out the Android phones. They go off on in ones and twos to shady places outside, and record stories, legends, personal narratives, dialogues, songs, wordlists, and so forth. As they speak into the phone, their voices are transmitted to the central storage.
+
+When the group reassembles, we show them the refresh button. All the stored recordings now appear on their devices. They sit on the floor and listen through the recordings, sometimes pressing on the “like” button. They have clearly grasped the process, and so we now sit back and observe in quiet amazement. Amid the excitement, recordings quickly accumulate. The most liked recordings rise to the top of the list, thanks to the “wisdom of the crowd”.
+
+On another occasion, I play recordings from languages from other places, languages now forgotten, and the penny drops for the Usarufa speakers. “We must record our stories now so that they can be preserved for our children, since they are not learning our language!” In the same moment, the penny drops for me as well, and I realise that we have our elusive “informed consent”. No one here has experienced the internet or digital archiving. Yet everyone understands that recording on this device is a form of public speaking, directed to an audience of other people in other times, hopefully including their descendents who want to re-learn their ancestral language.
+
+This visit in February 2012 was the first time that these Usarufa people had encountered social media. They took to it like a 13-year-old to an iPod. We were as far off-grid as one could imagine.
+
+A year on, and I am about to embark on a field trip to the Brazilian Amazon. The language will be Tembé, spoken by just 150 people. They will try out a new version of the app which includes a voice-activated translation mode. While listening to a recording, the user can interrupt to give a commentary or translation. The phone records what was said and aligns it with the original. Now the meaning of the recording is preserved, and suddenly the collection has enduring value, even if the language falls out of use and there is no living person to translate the stories.
+
+h2. Links
+
+* "another version of this piece that appeared in The Conversation":https://theconversation.edu.au/cyberlinguistics-recording-the-worlds-vanishing-voices-12644
+
+* "more about the prototype Aikuma app":http://lp20.org/
+
+* "the newly released edition of the Ethnologue catalogue of the world's languages (17th edition)":http://ethnologue.com
+
+

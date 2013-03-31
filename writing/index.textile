@@ -1,0 +1,303 @@
+---
+layout: page
+title: Writing
+description: ""
+---
+{% include JB/setup %}
+
+View my publications via:
+<a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bird:Steven.html">DBLP</a>
+| <a href="http://scholar.google.com/citations?user=xoyloJAAAAAJ">Google Scholar</a>
+
+<div id="writing">
+
+h2. In preparation
+
+* "How to study a tone language":http://www.toneworkshop.org/tone-book
+  Steven Bird and Larry Hyman (editors)
+
+h2. 2012
+
+* "Machine translation for language preservation":http://www.aclweb.org/anthology/C12-2013.pdf
+  Steven Bird and David Chiang,
+  _Proceedings of the 24th International Conference on Computational Linguistics_, 125-133, Mumbai, India
+* "Fangorn: A system for querying very large treebanks":http://www.aclweb.org/anthology/C/C12/C12-3022.pdf
+  Sumukh Ghodke and Steven Bird,
+  _Proceedings of the 24th International Conference on Computational Linguistics_, 175-181, Mumbai, India
+* "Projeto das Línguas Humanas: Construindo um corpus universal das línguas do mundo":papers/projeto-das-linguas-humanas.pdf
+  Steven Abney and Steven Bird,
+  In Shepherd, Sardinha and Pinto (eds) _Caminhos da Linguística de Corpus_, Campinas SP: Mercado de Letras, pp 107-131.
+
+h2. 2011
+
+* <a name="lilt11"/> "Bootstrapping the language archive: New prospects for natural language processing in preserving linguistic heritage":http://elanguage.net/journals/index.php/lilt/article/download/2580/2544
+  Steven Bird,
+  _Linguistic Issues in Language Technology_ 6, 1-16
+  * "Normalising audio transcriptions for unwritten languages":http://www.aclweb.org/anthology/I11-1059.pdf
+  Adel Foda and Steven Bird,
+  _Proceedings of the 5th International Joint Conference on Natural Language Processing_, 527-535, Chiang Mai, Thailand.
+* "A breadth-first representation for efficient hypergraph matching in large scale forest-based translation":http://www.aclweb.org/anthology/I11-1088.pdf
+  Sumukh Ghodke, Steven Bird, and Rui Zhang
+  _Proceedings of the 5th International Joint Conference on Natural Language Processing_, 785-793, Chiang Mai, Thailand.
+* <a name="bucc11"/> "Towards a data model for the Universal Corpus":http://www.aclweb.org/anthology/W11-1216.pdf
+  Steven Abney and Steven Bird,
+  _Proceedings of the 4th Workshop on Building and Using Comparable Corpora_, 120-127, Portland, USA
+* "Collective classification of congressional floor-debate transcripts":http://www.aclweb.org/anthology/P/P11/P11-1151.pdf
+  Clinton Burfoot, Steven Bird, Timothy Baldwin,
+  _Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies_, 1506-1515, Portland, USA
+* Mining language resources from institutional repositories,
+  Gary F Simons, Steven Bird, Christopher Hirt, Joshua Hou, Sven Pedersen,
+  _Digital Humanities 2011_, Stanford, USA
+
+h2. 2010
+
+* <a name="sst10"/> "The Big Australian Speech Corpus":http://not.yet.available/
+  Wagner, Trant, Togneri, Rose, Powers, Bird, et al, _Proceedings of the 13th Australasian International Conference on Speech Science and Technology_, Melbourne, Australia
+* <a name="acl10"/> "The Human Language Project: Building a universal corpus of the World's languages":http://www.aclweb.org/anthology/P10-1010.pdf
+  Steven Abney and Steven Bird, _Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics_, 88-97, Uppsala, Sweden
+* <a name="icadl10"/> "A scalable method for preserving oral literature from small languages":http://repository.unimelb.edu.au/10187/7141
+  Steven Bird, _Proceedings of the 12th International Conference on Asia-Pacific Digital Libraries_, 5-14, Gold Coast, Australia 
+* <a name="naacl10"/> "Fast query for large treebanks":http://repository.unimelb.edu.au/10187/7142
+  Sumukh Ghodke and Steven Bird, _Human Language Technologies: The 11th Annual Conference of the North American Chapter of the Association for Computational Linguistics_, 267-275, Los Angeles, USA
+* <a name="lpath"/> "Querying linguistic trees":http://repository.unimelb.edu.au/10187/3307
+  Catherine Lai and Steven Bird, _Journal of Logic, Language and Information_ 19, 53-73
+
+h2. 2009
+
+* <a name="acl09"/> "ACL Anthology Reference Corpus":http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2009T29
+  Min-Yen Kan and Steven Bird, LDC Text Corpus LDC2009T29, ISBN 1-58563-531-6
+* <a name="cl09"/> "Natural Language Processing and Linguistic Fieldwork":http://www.aclweb.org/anthology/J09-3007.pdf
+  Steven Bird, _Computational Linguistics_, 35, 469-474
+* <a name="nlp09"/> "Natural Language Processing with Python":http://www.nltk.org/book
+  Steven Bird, Ewan Klein, and Edward Loper, O'Reilly Media
+* <a name="hcsnet09"/> "A blueprint for a comprehensive Australian English auditory-visual speech corpus":http://repository.unimelb.edu.au/10187/6983
+  D. Burnham, E. Ambikairajah, J. Arciuli, M. Bennamoun, C.T. Best, S. Bird, A.R. Butcher, S. Cassidy, G. Chetty, F.M. Cox, A. Cutler, R. Dale, J.R. Epps, J. Fletcher, R. Goecke, D. Grayden, J. Hajek, J.C. Ingram, S. Ishihara, N. Kemp, Y. Kinoshita, T. Kuratate, T.W. Lewis, D. Loakes, M. Onslow, D.M. Powers, P. Rose, R. Togneri, D. Tran, M. Wagner,   _Selected Proceedings of the 2008 HCSNet Workshop on Designing the Australian National Corpus_: Mustering Languages, pages 1-12, Cascadilla Press
+
+h2. 2008
+
+* <a name="adcs08"/>"Querying Linguistic Annotations":http://es.csiro.au/adcs2008/proceedings/p11-ghodke.pdf 
+  Sumukh Ghodke and Steven Bird, _Proceedings of the Thirteenth Australasian Document Computing Symposium_, Hobart, Australia, pp 69-72
+* <a name="paclic08"/> "Toward a global infrastructure for the sustainability of language resources":http://repository.unimelb.edu.au/10187/3531
+  Gary Simons and Steven Bird, _Proceedings of the 22nd Pacific Asia Conference on Language, Information and Computation_, Cebu City, Philippines.  pp 87-100
+* <a name="nltk08"/> "Multidisciplinary instruction with the Natural Language Toolkit":http://repository.unimelb.edu.au/10187/2230
+  Steven Bird, Ewan Klein, Edward Loper, and Jason Baldridge,  _Proceedings of the Third Workshop on Issues in Teaching Computational Linguistics_, Columbus, Ohio, USA. pp 62-70
+* <a name="curric08"/> "Defining a core body of knowledge for the introductory computational linguistics curriculum":http://repository.unimelb.edu.au/10187/2231
+  Steven Bird, _Proceedings of the Third Workshop on Issues in Teaching Computational Linguistics_, Columbus, Ohio, USA.  pp 27-35
+* <a name="lrec08"/> "The ACL Anthology Reference Corpus: A reference dataset for bibliographic research in Computational Linguistics":http://repository.unimelb.edu.au/10187/1777
+  Steven Bird, Robert Dale, Bonnie Dorr, Bryan Gibson, Mark Joseph, Min-Yen Kan, Dongwon Lee, Brett Powley, Dragomir Radev, Yee Fan Tan, _Proceedings of the Sixth International Conference on Language Resources and Evaluation_, Marrakech, Morocco.
+
+h2. 2007
+
+* <a name="pacling07"/>"Graphical query for linguistic treebanks":http://repository.unimelb.edu.au/10187/1959
+  Steven Bird and Haejoong Lee, _10th Conference of the Pacific Association for Computational Linguistics_.  pp 22-30.  Melbourne, Australia
+* <a name="ldc07"/>"Managing Fieldwork Data with Toolbox and the Natural Language Toolkit":http://nflrc.hawaii.edu/ldc/June2007/abstracts.html#robinson
+  Stuart Robinson, Greg Aumann, and Steven Bird, _Language Documentation and Conservation_ 1, pp 44-57
+* <a name="latech07"/> "Dynamic Path Prediction and Recommendation in a Museum Environment":http://www.aclweb.org/anthology/W07-0907.pdf
+  Karl Grieser, Timothy Baldwin, and Steven Bird, _Proceedings of the Workshop on Language Technology for Cultural Heritage Data_, pp 49-56.  Prague, Czech Republic.  Association for Computational Linguistics.
+
+h2. 2006
+
+* <a name="acl06"/>"NLTK: The Natural Language Toolkit":http://www.aclweb.org/anthology/P06-4018.pdf
+  Steven Bird, _Proceedings of COLING/ACL_, Sydney, Australia.  Association for Computational Linguistics
+* <a name="iticse06"/>"Building a Search Engine to Drive Problem-Based Learning":http://repository.unimelb.edu.au/10187/871
+  Steven Bird and James Curran, _11th Annual Conference on Innovation and Technology in Computer Science Education_, Bologna, Italy, pp 153-157
+* <a name="ausweb06"/>"Collecting Low-Density Language Materials on the Web":http://ausweb.scu.edu.au/aw06/papers/edited/hughes/index.html
+  Timothy Baldwin, Steven Bird and Baden Hughes, _Proceedings of 12th Australasian Web Conference_, Southern Cross University. pp 318-321
+* <a name="lrec06"/> "Reconsidering Language Identification for Written Language Resources":http://repository.unimelb.edu.au/10187/291
+  Baden Hughes, Timothy Baldwin, Steven Bird, Jeremy Nicholson, and Andrew MacKinlay,  _5th International Conference on Language Resources and Evaluation_, pp 485-488, Genoa, Italy
+* <a name="icde06"/> "Designing and Evaluating an XPath Dialect for Linguistic Queries":http://eprints.unimelb.edu.au/archive/00001455/
+  Steven Bird, Yi Chen, Susan Davidson, Haejoong Lee, and Yifeng Zheng,  _22nd International Conference on Data Engineering_, pp 52-61, Atlanta, USA
+
+h2. 2005
+
+* <a name="icon05"/> "NLTK-Lite: Efficient Scripting for Natural Language Processing":http://repository.unimelb.edu.au/10187/989
+  Steven Bird, _Proceedings of the 4th International Conference on Natural Language Processing_, pp 11-18, Kanpur, India.  New Delhi: Allied Publishers
+* <a name="altw05"/>"Structuring Documents Efficiently":http://repository.unimelb.edu.au/10187/2883
+  Robert Marshall, Steven Bird and Peter Stuckey, _Proceedings of the Australasian Language Technology Workshop_, pp 120-128, Sydney, Australia
+* <a name="planx05"/> "Extending XPath to Support Linguistic Queries":http://repository.unimelb.edu.au/10187/987
+  Steven Bird, Yi Chen, Susan Davidson, Haejoong Lee, and Yifeng Zheng, _Proceedings of Programming Language Technologies for XML_, pp 35-46, Long Beach, California.  Association for Computing Machinery
+* <a name="jdl05"/>"Transforming Access to the Spoken Word":http://repository.unimelb.edu.au/10187/1049
+  Jerry Goldman, Steve Renals, Steven Bird, Franciska de Jong, Marcello Federico, Carl Fleischhauer, Mark Kornbluh, Lori Lamel, Douglas Oard, Claire Stewart and Richard Wright, _International Journal on Digital Libraries_ 5, 287-298
+
+h2. 2004
+
+* <a name="altw04lai"/> "Querying and Updating Treebanks: A Critical Survey and Requirements Analysis":http://repository.unimelb.edu.au/10187/1547
+  Catherine Lai and Steven Bird, _Proceedings of the Australasian Language Technology Workshop_, pp 139-146. Sydney, Australia
+* <a name="altw04penton"/>"Representing and Rendering Linguistic Paradigms":http://repository.unimelb.edu.au/10187/1546
+  David Penton and Steven Bird, _Proceedings of the Australasian Language Technology Workshop_, pp 123-130. Sydney, Australia
+* <a name="acl04"/>"NLTK: The Natural Language Toolkit":http://repository.unimelb.edu.au/10187/986
+  Steven Bird and Edward Loper, _Proceedings of the ACL_, pp 214-217. Barcelona, Spain
+* <a name="emeld04"/> "Towards a General Model for Linguistic Paradigms":http://repository.unimelb.edu.au/10187/1019
+  David Penton, Catherine Bow, Steven Bird, and Baden Hughes, _Proceedings of the E-MELD Workshop on Databases and Best Practice_  pp 1-15. Detroit, USA
+* <a name="lrec04-talkbank"/> "TalkBank: Building an Open Unified Multimodal Database of Communicative Interaction":http://repository.unimelb.edu.au/10187/1050
+  Brian MacWhinney, Steven Bird, Christopher Cieri and Craig Martell, _Proceedings of the 4th International Conference on Language Resources and Evaluation_, pp 525-528. Lisbon, Portugal
+* <a name="lrec04-interlinear"/>"Functional Requirements for an Interlinear Text Editor":http://repository.unimelb.edu.au/10187/979
+  Baden Hughes, Catherine Bow and Steven Bird, _Proceedings of the 4th International Conference on Language Resources and Evaluation_, pp 771-775. Lisbon, Portugal
+* <a name="lrec04-ega"/> "Securing Interpretability: The Case of Ega Language Documentation":http://repository.unimelb.edu.au/10187/981
+  Dafydd Gibbon, Catherine Bow, Steven Bird and Baden Hughes, _Proceedings of the 4th International Conference on Language Resources and Evaluation_, pp 1369-1372. Lisbon, Portugal
+* <a name="lrec04-acla"/> "Management of Metadata in Linguistic Fieldwork: Experience from the ACLA Project":http://repository.unimelb.edu.au/10187/980
+  Baden Hughes, David Penton, Steven Bird, Catherine Bow, Gillian Wigglesworth, Patrick McConvell and Jane Simpson, _Proceedings of the 4th International Conference on Language Resources and Evaluation_, pp 193-196. Lisbon, Portugal
+* <a name="llc04"/> "A Four-Level Model for Interlinear Text":http://www.ldc.upenn.edu/sb/home/papers/llc.pdf
+  Catherine Bow, Baden Hughes and Steven Bird (DRAFT)
+* <a name="mip04"/>"Building an Open Language Archives Community on the DC Foundation":http://www.ldc.upenn.edu/sb/home/papers/mip.pdf
+  Steven Bird and Gary Simons, In Hillmann and Westbrooks (editors), _Metadata in Practice: A Work in Progress_, ALA Editions, pp 203-222
+
+h2. 2003
+
+* <a name="alta04">"Encoding and Presenting Interlinear Text Using XML Technologies":http://eprints.unimelb.edu.au/archive/00000455/
+  Baden Hughes, Steven Bird and Catherine Bow, _Proceedings Australasian Language Technology Workshop_, pp 105-113, Melbourne, Australia
+* <a name="LDC2003L01"/>"Grassfields Bantu Fieldwork: Dschang Lexicon":http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2003L01
+  Steven Bird, Linguistic Data Consortium, ISBN 1-58563-255-4
+* <a name="LDC2003S02"/>"Grassfields Bantu Fieldwork: Dschang Tone Paradigms":http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2003S02
+  Steven Bird, Linguistic Data Consortium, ISBN 1-58563-254-6
+* <a name="0304028"/>"Grid-Enabling Natural Language Engineering By Stealth":http://arxiv.org/abs/cs.DC/0304028
+  Baden Hughes and Steven Bird, _Proceedings of the Workshop on The Software Engineering and Architecture of Language Technology Systems_, pp 31-38
+  Association for Computational Linguistics.  Edmonton, Canada
+* <a name="language03"/>"Seven Dimensions of Portability for Language Documentation and Description":http://www.ldc.upenn.edu/sb/home/papers/0204020/0204020-revised.pdf
+  Steven Bird and Gary Simons, _Language_ 79: 557-582
+* <a name="0306040"/> "The Open Language Archives Community: An Infrastructure for Distributed Archiving of Language Resources":http://arxiv.org/abs/cs.CL/0306040
+  Gary Simons and Steven Bird, _Literary and Linguistic Computing_ 18: 117-128
+* <a name="lht03"/>"Building an Open Language Archives Community on the OAI Foundation":http://arxiv.org/abs/cs.CL/0302021
+  Gary Simons and Steven Bird, _Library Hi Tech_ 21, 210-218 (Special Issue on Open Archives Initiative Metadata Harvesting.)
+* <a name="0308022"/> "Extending Dublin Core Metadata to support the description and discovery of language resources":http://arxiv.org/abs/cs.CL/0308022
+  Steven Bird and Gary Simons, _Computing and the Humanities_ 37, 375-388
+
+h2. 2002
+
+* <a name="olac02"/> "Proceedings of the IRCS Workshop on Open Language Archives":http://www.language-archives.org/events/olac02/
+  Steven Bird and Gary Simons (eds)  59pp
+* <a name="0205028"/> "NLTK: The Natural Language Toolkit":http://www.aclweb.org/anthology/W/W02/W02-0109.pdf
+   Edward Loper and Steven Bird, _Proceedings of the ACL Workshop on Effective Tools and Methodologies for Teaching Natural Language Processing and Computational Linguistics_,
+  Philadelphia, Association for Computational Linguistics, pp 62-69
+* <a name="0204007"/> "An Integrated Framework for Treebanks and Multilayer Annotations":http://arXiv.org/abs/cs/0204007
+  Scott Cotton and Steven Bird, _Proceedings of the Third International Conference on Language Resources and Evaluation_, pp 1670-1677.  Las Palmas, Spain
+* <a name="0204006"/> "TableTrans, MultiTrans, InterTrans and TreeTrans: Diverse Tools Built on the Annotation Graph Toolkit":http://arXiv.org/abs/cs/0204006
+  Steven Bird, Kazuaki Maeda, Xiaoyi Ma, Haejoong Lee, Beth Randall, and Salim Zayat, _Proceedings of the Third International Conference on Language Resources and Evaluation_, pp 364-370.  Las Palmas, Spain
+* <a name="0204005"/> "Creating Annotation Tools with the Annotation Graph Toolkit":http://arXiv.org/abs/cs/0204005
+  Kazuaki Maeda, Steven Bird, Xiaoyi Ma, and Haejoong Lee, _Proceedings of the Third International Conference on Language Resources and Evaluation_, pp 1914-1921.  Las Palmas, Spain
+* <a name="0204004"/>"Models and Tools for Collaborative Annotation":http://arXiv.org/abs/cs/0204004
+  Xiaoyi Ma, Haejoong Lee, Steven Bird and Kazuaki Maeda, _Proceedings of the Third International Conference on Language Resources and Evaluation_, pp 2066-2073.  Las Palmas, Spain
+* <a name="0204023"/>"Computational Phonology":http://arXiv.org/abs/cs/0204023
+  Steven Bird, _Oxford International Encyclopedia of Linguistics_, 2nd Edition
+* <a name="cl-handbook"/><a name="0204025"/>"Phonology":http://arXiv.org/abs/cs/0204025
+  Steven Bird, In Ruslan Mitkov (ed), _Oxford Handbook of Computational Linguistics_, pp 1-24. Oxford University Press
+
+h2. 2001
+
+* <a name="LDC2001S16"/> "Grassfields Bantu Fieldwork: Ngomba Tone Paradigms":http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2001S16
+  Steven Bird and John Bell, Linguistic Data Consortium, ISBN 1-58563-216-3
+* <a name="0110014"/><a name="nlprs01"/> "The Open Language Archives Community and Asian Language Resources":http://arXiv.org/abs/cs/0110014
+  Steven Bird, Gary Simons and Chu-Ren Huang, _Proceedings of the Workshop on Language Resources in Asia, 6th Natural Language Processing Pacific Rim Symposium_, Tokyo, Japan
+* <a name="acl01-olac"/><a name="0105030"/>"The OLAC Metadata Set and Controlled Vocabularies":http://arXiv.org/abs/cs/0105030
+  Steven Bird and Gary Simons, _Proceedings of the ACL Workshop on Sharing Tools and Resources for Research and Education_, Toulouse, France, pp 7-18
+* <a name="acl01-infra"/><a name="0204022"/> "Annotation Graphs and Servers and Multi-Modal Resources: Infrastructure for Interdisciplinary Education, Research and Development":http://arXiv.org/abs/cs/0204022
+  Christopher Cieri and Steven Bird, _Proceedings of the ACL Workshop on Sharing Tools and Resources for Research and Education_, Toulouse, France, pp 23-30
+* <a name="sact01"/>"Speech Annotation and Corpus Tools - Special Issue of <i>Speech Communication</i>":http://www.ldc.upenn.edu/annotation/specom.html
+  Steven Bird and Jonathan Harrington (eds) _Speech Communication_ 33(1,2).
+* <a name="specom01"/><a name="0010033"/> "A formal framework for linguistic annotation":http://arXiv.org/abs/cs/0010033
+  Steven Bird and Mark Liberman, _Speech Communication_ 33(1,2), pp 23-60
+* <a name="identity"/><a name="00001446"/> "Orthography and identity in Cameroon":http://cogprints.org/1446/
+  Steven Bird, _Written Language and Literacy_ 4, pp 131-162
+  (Revised from paper presented at the 96th Annual Meeting of the American Anthropological Association, Washington, November 1997)
+
+
+h2. 2000
+
+* <a name="expl02"/>"A Preliminary Study of the Structure of Lexicon Entries":http://www.ldc.upenn.edu/exploration/expl2000/papers/bell/bell.html
+  John Bell and Steven Bird, _Proceedings of the Workshop on Web-Based Language Documentation and Description_, Philadelphia
+* <a name="expl01"/>"A Formal Framework for Interlinear Text":http://www.ldc.upenn.edu/exploration/expl2000/papers/maeda/maeda.pdf
+  Kazuaki Maeda and Steven Bird, _Proceedings of the Workshop on Web-Based Language Documentation and Description_, Philadelphia
+* <a name="lrec00-atlas"/><a name="0007022"/>"ATLAS: A flexible and extensible architecture for linguistic annotation":http://arXiv.org/abs/cs/0007022
+  Steven Bird, David Day, John Garofolo, John Henderson, Christophe Laprun, Mark Liberman, _Proceedings of the Second International Conference on Language Resources and Evaluation_, Athens, Greece, pp 1699-1706
+* <a name="lrec00-query"/><a name="0007023"/> "Towards a query language for annotation graphs":http://arXiv.org/abs/cs/0007023
+  Steven Bird, Peter Buneman and Wang-Chiew Tan, _Proceedings of the Second International Conference on Language Resources and Evaluation_,
+  Athens, Greece, pp 807-814
+* <a name="lrec00-multi"/><a name="0007024"/> "Many uses, many annotations for large speech corpora: Switchboard and TDT as case studies":http://arXiv.org/abs/cs/0007024
+  David Graff and Steven Bird, _Proceedings of the Second International Conference on Language Resources and Evaluation_, Athens, Greece, pp 427-433.
+* <a name="lrec00-trans"/><a name="lrec00-trans"/> "Transcribing with annotation graphs":http://www.ldc.upenn.edu/home/papers/lrec00-trans.pdf
+  Edouard Geoffrois, Claude Barras, Steven Bird and Zhibiao Wu, _Proceedings of the Second International Conference on Language Resources and Evaluation_, Athens, Greece, pp 1517-1521
+* <a name="adc00"/><a name="0204026"/> "Querying databases of annotated speech":http://arXiv.org/abs/cs/0204026
+  Steve Cassidy and Steven Bird, _Database Technologies: Proceedings of the Eleventh Australasian Database Conference_, pp. 12-20.  IEEE Computer Society
+
+h2. 1990-99 (selected)
+
+* <a name="dtag"/><a name="9907003"/> "Annotation graphs as a framework for multidimensional linguistic data analysis":http://arXiv.org/abs/cs/9907003
+  Steven Bird and Mark Liberman, _Towards Standards and Tools for Discourse Tagging_, pp 1-10. Association for Computational Linguistics, 1999
+* <a name="nels29"/> "Multidimensional exploration of online linguistic field data":http://www.ldc.upenn.edu/sb/home/papers/nels29.pdf
+  Steven Bird, _Proceedings of the 29th Meeting of the North-East Linguistic Society_, pp 33-50, 1999 (<a href="http://www.ldc.upenn.edu/sb/fieldwork/">Web Version</a>)
+* <a name="lgsp42"/><a name="00002173"/> "When marking tone reduces fluency: an orthography experiment in Cameroon":http://cogprints.org/2173/
+  Steven Bird, _Language and Speech_ 42, 83-115, 1999
+* <a name="lgsp42"/><a name="00002174"/> "Strategies for representing tone in African writing systems":http://cogprints.org/2174/
+  Steven Bird, _Written Language and Literacy_ 2, 1-44, 1999
+* <a name="syllable"/><a name="00002184"/>"Dschang syllable structure":http://cogprints.org/2183/
+  Steven Bird, In van der Hulst & Ritter (eds) _The Syllable: Views and Facts_,
+  Studies in Generative Grammar, Mouton-De Gruyter, pp 447-476, 1999
+* <a name="icslp98"/> "Towards a formal framework for linguistic annotations":http://www.ldc.upenn.edu/sb/home/papers/icslp98.pdf
+  Steven Bird and Mark Liberman, _Proceedings of the International Conference on Spoken Language Processing_, Sydney, 1998
+* <a name="sigphon97"/><a name="9707011"/> "A lexical database tool for quantitative phonological research":http://xxx.lanl.gov/abs/cmp-lg/9707011 
+  Steven Bird, _Proceedings of the Third Meeting of the ACL Special Interest Group in Computational Phonology_, 33-39, Madrid, Spain, 1997
+* <a name="dictionary"/>"Petit Dictionnaire Yemba-Francais":http://www.ldc.upenn.edu/sb/home/papers/dictionary.pdf
+  Steven Bird and Maurice Tadadjeu, Yaounde: NACALCO, 176pp, 1997
+* "Key aspects of declarative phonology":http://www.ldc.upenn.edu/sb/home/papers/declarative-phonology.pdf
+  James Scobbie, John Coleman and Steven Bird, In Durand & Laks (eds). _Current Trends in Phonology: Models and Methods_, pp 685-710.
+  University of Salford Publications. 1996
+* <a name="comp-phon-book"/> "Computational Phonology: A Constraint-Based Approach":http://www.amazon.com/Computational-Phonology-Constraint-Based-Approach-Processing/dp/0521474965
+  Steven Bird, Cambridge University Press, 1995
+* <a name="bs95"/> "The Bamileke Dschang associative construction: instrumental findings":http://www.ldc.upenn.edu/sb/home/papers/bs95.pdf
+  Steven Bird and Oliver Stegen, Research Paper EUCCS/RP-66, Centre for Cognitive Science, University of Edinburgh, 1995
+* "Computational Phonology":http://www.aclweb.org/anthology/J/J94/
+  Steven Bird (ed) _Computational Linguistics_, 20 (3), 1994
+* "Introduction to computational phonology":http://www.ldc.upenn.edu/sb/home/papers/cp-intro.pdf
+  Steven Bird, _Computational Linguistics_, 20 (3), 1994
+* <a name="sigphon94"/><a name="9410022"/>"Automated tone transcription":http://xxx.lanl.gov/abs/cmp-lg/9410022
+  Steven Bird, _Proceedings of the First Meeting of the ACL Special Interest Group in Computational Phonology_, 1-12, Las Cruces, USA, 1994
+* <a name="be94"/> "One level phonology: autosegmental representations and rules as finite automata":http://www.aclweb.org/anthology/J94-1003.pdf
+  Steven Bird and T. Mark Ellison, _Computational Linguistics_, 20, 55-90, 1994
+* <a name="bk94"/>"Phonological analysis in typed feature systems":http://www.aclweb.org/anthology/J94-3010.pdf
+  Steven Bird and Ewan Klein, _Computational Linguistics_, 20, 455-91, 1994
+* "Declarative phonology":http://www.ldc.upenn.edu/sb/home/papers/bcps92.pdf
+  Steven Bird, John Coleman, Janet Pierrehumbert and Jim Scobbie, _Proceedings of the 15th International Conference of Linguists_, Quebec, Canada, 1992
+* "A phonologist's workbench":http://www.ldc.upenn.edu/sb/home/papers/be92.pdf
+  Steven Bird and T. Mark Ellison, _Proceedings of the 15th International Conference of Linguists_, Quebec, Canada, 1992
+* "Finite-state phonology in HPSG":http://www.ldc.upenn.edu/sb/home/papers/coling92.pdf
+  Steven Bird, _Proceedings of the Fifteenth International Conference on Computational Linguistics_, 74-80, 1992
+* "Feature structures and indices":http://www.jstor.org/pss/4420027
+  Steven Bird, _Phonology_ 8, 137-144, 1991
+* "Focus and phrasing in Unification Categorial Grammar":http://www.ldc.upenn.edu/sb/home/papers/wp7.pdf
+  Steven Bird, in Steven Bird (ed) _Declarative Perspectives in Phonology_, Working Papers in Cognitive Science, Volume 7, University of Edinburgh.  pp. 139-166, 1991
+* "A logical approach to Arabic phonology":http://www.ldc.upenn.edu/sb/home/papers/bb91.pdf
+  Steven Bird and Patrick Blackburn, _Proceedings of the Fifth Meeting of the European Chapter of the Association for Computational Linguistics_, 89-94, 1991
+* "Defaults in underspecification phonology":http://www.ldc.upenn.edu/sb/home/papers/cb91.pdf
+  Jonathan Calder and Steven Bird, In Bird (ed), _Declarative Perspectives in Phonology_, Working Papers in Cognitive  Science, Volume 7, University of Edinburgh. pp. 107-125, 1991
+* Phonological structure and abstract specification
+  Ewan Klein and Steven Bird, _Proceedings of the 12th International Congress of Phonetic Sciences_, Volume 5, pp 110-13, 1991, Aix-en-Provence, France
+* Presenting autosegmental phonology
+  Steven Bird and D. Robert Ladd, _Journal of Linguistics_, 27, 193-210, 1991
+* "Phonological events":http://www.ldc.upenn.edu/sb/home/papers/bk90.pdf
+  Steven Bird and Ewan Klein, _Journal of Linguistics_, 26, 33-56, 1990
+* Constraint-Based Phonology
+  Steven Bird, PhD Thesis, University of Edinburgh, 1990
+
+h3. Media Stories
+
+* "*Melbourne Age: High schools to trial uni computer science in Y12*":http://www.theage.com.au/it-pro/business-it/high-schools-to-trial-uni-computer-science-in-y12-20120719-22c99.html
+* "*Melbourne University: So you think you are an IT expert?*":http://newsroom.melbourne.edu/news/n-854
+* "*Mobile telephones helping to preserve PNG languages*":http://www.radioaustralia.net.au/pacific/radio/onairhighlights/mobile-telephones-helping-to-preserve-png-languages
+* "*The Melbourne Engineer*: IT researchers preserving remote PNG languages":http://themelbourneengineer.eng.unimelb.edu.au/2012/02/it-researchers-preserving-the-remote-languages-of-png/
+* "*ICT Update*: Language technology":http://ictupdate.cta.int/en/Regulars/Q-A/Q-A-Using-the-right-words
+* "*Sydney Morning Herald*: Big brains coming back to Melbourne":http://www.smh.com.au/news/next/big-brains-coming-back-to-melbourne/2005/12/05/1133631187436.html
+* "*Uni News*: Reversing the brain drain":http://uninews.unimelb.edu.au/articleid_2985.html
+* "*BBC*: Digital race to save languages":http://news.bbc.co.uk/2/hi/technology/2857041.stm
+* "*Uni News*: Global mission races to save dying languages":http://uninews.unimelb.edu.au/articleid_359.html
+* "*ABC Radio National*: Indigenous Language":http://www.abc.net.au/rn/talks/brkfast/stories/s764119.htm
+* "*Wired News*: Word Up: Keeping Languages Alive":http://wired.com/news/culture/0,1284,54345,00.html
+* "*Scientific American*: Saving Dying Languages":http://www.language-archives.org/documents/sciam.pdf
+* "*ABCNews.com*: Tongue-Tied":http://abcnews.go.com/sections/world/DailyNews/endangered_languages.html
+* "*National Public Radio*: Endangered Languages":http://www.sciencefriday.com/pages/2002/Mar/hour2_030802.html
+* "*Internet Week*: Ellis Island Project":http://www.internetweek.com/reload01/reload050701.htm
+* "*Avotaynu*: Ellis Island Project":http://www.avotaynu.com/ellisisland.htm
+* "*Boston Globe*: Vanishing tongues":http://www.ldc.upenn.edu/exploration/boston-globe.txt
+
+</div>
+
+

@@ -1,0 +1,60 @@
+---
+layout: page
+title: Music
+---
+
+<script type='text/javascript' src='/scripts/swfobject.js'></script>
+
+<div class="small">
+
+p. Brazilian guitar music, a daily diversion...
+
+- Emotiva #1 - H&eacute;lio Delmiro := _A reflective piece, which in its falling cadences and alternating harmonies and discords captures the sweet pain of nostalgia, or saudade_.
+<div id="emotiva">(sound player requires javascript to be enabled)</div>
+
+- Garota de Ipanema (Tom Jobim) - Baden Powell := _From a "transcription":http://www.brazil-on-guitar.de/pdf/pdf_powell_garota_de_ipanema.zip of a  1964 recording.  It features the characteristic collision of stopped and open strings, and the extended groups of three 16th notes.  Some percussion anchors it all._
+<div id="ipanema">(sound player requires javascript to be enabled)</div>
+
+- Um Abra&ccedil;o no Bonf&aacute; - Jo&atilde;o Gilberto := _One of my favourites, for its simple elegance.  The repeated 16th notes with their 4th-beat emphasis are reminiscent of the pandeiro.  Some low bass notes of the 7-string guitar appear in the middle section._
+<div id="abraco">(sound player requires javascript to be enabled)</div>
+
+- Estrella da Manh&atilde; - Marco Pereira := _Unique among Pereira's compositions for its "new age" feel.  I played this at a friend's memorial:  the morning star (represented in the harmonics) symbolised hope at the end of a long dark night - a new day._
+<div id="estrella">(sound player requires javascript to be enabled)</div> 
+
+- Sons de Carrilh&otilde;es - Jo&atilde;o Pernambuco := _So very sweet, just like a Brazilian dessert!_
+<div id="carrilhoes">(sound player requires javascript to be enabled)</div>
+
+- Tempo de Futebol - Marco Pereira := _This a kind of samba known as partido alto.  Its name comes from the light-footedness of a skilled soccer player; it is a study in lightness.  Note that the "improvisations" are written out in the published score.  A work in progress..._
+<div id="futebol">(sound player requires javascript to be enabled)</div>
+
+</div>
+
+p. !/images/png-guitar.jpg!
+_Impromptu concert, Eastern Highlands Province, Papua New Guinea (April 2009)_
+
+<script type='text/javascript'>
+  var so = new SWFObject('/scripts/player.swf','mpl','400','24','9');
+  so.addParam('allowfullscreen','true');
+  so.addParam('allowscriptaccess','always');
+  so.addParam('wmode','opaque');
+  so.addVariable('duration','190');
+  so.addVariable('file','/audio/emotiva.mp3');
+  so.write('emotiva');
+  so.addVariable('duration','234');
+  so.addVariable('file','/audio/ipanema.mp3');
+  so.write('ipanema');
+  so.addVariable('duration','245');
+  so.addVariable('file','/audio/estrella.mp3');
+  so.write('estrella');
+  so.addVariable('duration','141');
+  so.addVariable('file','/audio/carrilhoes.mp3');
+  so.write('carrilhoes');
+  so.addVariable('duration','104');
+  so.addVariable('file','/audio/abraco.mp3');
+  so.write('abraco');
+  so.addVariable('duration','238');
+  so.addVariable('file','/audio/futebol.mp3');
+  so.write('futebol');
+  
+</script>
+

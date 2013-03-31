@@ -1,0 +1,74 @@
+---
+layout: page
+title: Service
+---
+
+h3. Leadership
+
+* Co-organiser, "Computer Science for High School (CS4HS)":http://www.cis.unimelb.edu.au/industry/cs4hs.html, Melbourne University (2011, 2012)
+* Member, "PanLex Steering Committee":http://panlex.org/people/ (2012-)
+* Co-organizer, "International Workshop on Language Preservation":http://www.boldpng.info/iwlp, University of Goroka (2012)
+* Co-organiser, "Workshop on Studying Tone Languages in New Guinea: elicitation, analysis, and archiving":http://www.prosodicsystems.org/workshop2, Australian National University (2011)
+* Co-organiser, "Workshop on How to Study a Tone Language: from the first elicitation to the latest software":http://www.prosodicsystems.org/workshop1, University of California, Berkeley (2011)
+* Member of organizing committee for the "International Joint Conference on Natural Language Processing":http://itpe.siit.tu.ac.th/ijcnlp2011/, Chang Mai, Thailand (2011)
+* University of Melbourne ICT Steering Committee (2010-)
+* Chair of coordinating committee for the "48th International Meeting of the Association for Computational Linguistics":http://acl2010.org/, Uppsala, Sweden (2010)
+* President of the "Association for Computational Linguistics":http://www.aclweb.org (2009)
+* Coordinator of the "Open Language Archives Community":http://language-archives.org/ (2000-)
+* Co-leader of "Melbourne University Language Technology Group":http://lt.csse.unimelb.edu.au/ (2003-)
+* Board member for "SIL Equip Training, Australia":http://www.equip.edu.au/ (2007-11)
+* President of "Australasian Language Technology Association":http://www.alta.asn.au/ (2003-04)
+* Member of executive board of the "Association for Computational Linguistics":http://www.aclweb.org/ (2001-03)
+* Member of "Linguistic Society of America Committee on Endangered Languages and their Preservation":http://www.lsadc.org/web2/comm.htm#c3 (2002-04)
+
+h3. Editorial
+
+* Editor, "ACL Digital Anthology":http://www.aclweb.org/anthology/ (2001-07)
+* Editor, "Cambridge Studies in Natural Language Processing":http://en.wikipedia.org/wiki/Studies_in_NLP (2001-08)
+* Editorial board member for "Natural Language Engineering":http://uk.cambridge.org/journals/nle/ (2001-)
+* Editorial board member for "Language Resources and Evaluation":http://www.springer.com/journal/10579/about (2001-)
+
+h3. Summer Schools
+
+* "Workshop on Digital Technology for Language Preservation":http://www.boldpng.info/resources/training, Goroka, Madang, Port Moresby, Papua New Guinea (2010)
+* "First Brazilian School on Computational Linguistics":http://www.letras.etc.br/ebralc/, Sao Paulo, Brazil (2007)
+* "Linguistic Society of America Summer Institute":http://linginst07.stanford.edu/courses.html, Stanford, USA (2007)
+* "Microsoft Research India Summer School on Natural Language Processing":http://research.microsoft.com/india/nlpsummerschool/, Bangalore, India (2007)
+* "ACL/HCSNET Advanced Program in Natural Language Processing":http://lt.csse.unimelb.edu.au/nlp06/, Melbourne, Australia (2006)
+
+h3. Plenary Talks
+
+* "International Conference on Papuan Cultural Diversity":http://icpcd.org/, Jayapura, Indonesia (2010)
+* "Digital Libraries for International Development":http://miksa.ils.unc.edu/dldev/program.html, Gold Coast, Australia (2010)
+* Open Language Data Working Group, Boston, USA (2010)
+* "8th Corpus Linguistics Conference":http://www.corpuslg.org/elc/Inicial.html, Rio de Janiero, Brazil (2009)
+* 6th Corpus Linguistics Conference, Sao Paulo, Brazil (2007)
+* "Texas Linguistics Society 10: Computational Linguistics for Less-Studied Languages":http://uts.cc.utexas.edu/~tls/2006tls/call.php, Austin, USA (2006)
+* "German Linguistics Society Annual Meeting":http://www.uni-bielefeld.de/(en)/dgfs2006/programm_tabelle.html, Bielefeld, Germany (2006)
+* "International Conference on Linguistic Evidence":http://www.sfb441.uni-tuebingen.de/LingEvid2006/, Tubingen, Germany (2006)
+* "Pacific Asia Conference on Language, Information, and Computation":http://paclic19.sinica.edu.tw/, Taipei, Taiwan (2005)
+
+h3. Major Consulting Roles
+
+* "Ellis Island Foundation":http://www.ellisisland.org/ -- high-performance approximate name matching algorithm for searching genealogical records (2001)
+* "SIL Cameroon":http://www.silcam.org/ -- linguistic analysis, writing systems, and dictionaries for languages of Cameroon (1995-97)
+
+h3. Teaching Awards
+
+* Kelvin Medal for Excellence in Teaching, Melbourne School of Engineering (2007)
+* Department Teaching Award, Department of Computer Science and Software Engineering (2005)
+
+h3. Teaching
+
+*  First and second year:
+** *Language and Computation*: _philosophy of language, applications of information theory, limits of machine intelligence_
+** *Informatics 1: Practical Computing*: _computational methods for analysing and visualising structured data_
+** *Logic: Language and Information*: _formal logic and its applications in language, computation, engineering, mathematics and philosophy_
+** *Algorithms and Data Structures*: _empirical and formal analysis of algorithms, abstract data types, algorithm design_
+** *Introduction to Cognitive Science* (UPenn): _computational or mathematical models that shed light on how minds work, covering perception, action, thought, learning, memory and social interaction_
+*  Third and fourth year:
+** *Human Language Technology*: _symbolic and statistical natural language processing, including tagging, parsing, hidden Markov models, n-gram language modelling, statistical estimation_  
+** *Database Systems*: _data modelling, relational calculus, normalisation, integrity, query processing, join algorithms, SQL_
+*  Masters:
+** *Web Search and Text Analysis*: _web indexing, query evaluation, cross-language information retrieval, probabilistic language modelling, document classification, topic detection_
+** *Computational Linguistics* (UPenn): _descriptive corpus-based linguistics and statistical natural language processing_

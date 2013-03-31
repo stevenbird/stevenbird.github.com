@@ -1,0 +1,28 @@
+---
+layout: default
+title: Contact
+---
+
+h3. Work Addresses
+
+p. Department of Computing and Information Systems
+University of Melbourne, Victoria 3010, Australia
+"@http://www.csse.unimelb.edu.au/~sb@":http://www.csse.unimelb.edu.au/~sb
+
+p. Linguistic Data Consortium, University of Pennsylvania
+3600 Market Street, Philadelphia, PA 19104-2653, USA
+"@http://www.ldc.upenn.edu/sb@":http://www.ldc.upenn.edu/sb
+
+- Email: := @stevenbird1 (at) gmail.com@
+
+- Office: := 8.20, Doug McDonell Building ("map":http://maps.unimelb.edu.au/parkville/building/168/)
+
+- Phone: := +61 3 8344 1361
+
+- Skype: := @StevenBird@
+
+- LinkedIn: := "@http://www.linkedin.com/in/stevenbird@":http://www.linkedin.com/in/stevenbird
+
+- Twitter: := "@http://twitter.com/StevenBird@":http://twitter.com/StevenBird
+
+
