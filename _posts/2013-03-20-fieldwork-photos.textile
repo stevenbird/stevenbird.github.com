@@ -5,73 +5,73 @@ title: "Fieldwork photos"
 
 h1. {{ page.title }}
 
-I recently visited the Tembé village, and wrote about it here ("Androids in Amazonia":https://theconversation.edu.au/androids-in-amazonia-recording-an-endangered-language-12865). This post is a work in progress, where I'm gradually adding photos from that trip.
+I recently visited a Tembé village and wrote about it here ("Androids in Amazonia":https://theconversation.edu.au/androids-in-amazonia-recording-an-endangered-language-12865). This post has a selection of photos from that trip.
 
 !</images/2013-03-Tembe/equipment.jpg!
-Fieldwork equipment: phones, recorders, video camera, head-torches, tripods, batteries, etc
+Fieldwork equipment: phones, recorders, video camera,
+head-torches, tripods, batteries, ...
 
 !</images/2013-03-Tembe/team.jpg!
-My little team, with Isaac McAlister and Katie Gelbart
+My team, with Isaac McAlister and Katie Gelbart:
+two travellers conscripted to do language documentation
 
 !</images/2013-03-Tembe/road.jpg!
 Crossing the digital divide: the road out of Paragominas
 
 !</images/2013-03-Tembe/sign.jpg!
-The sign at the edge of the Indian reservation
+The sign at the edge of the reservation (we had a permit)
 
 !</images/2013-03-Tembe/forest.jpg!
 In lush rainforest
 
-!</images/2013-03-Tembe/cooking.jpg!
-Preparing fish at Emidio's house
+!</images/2013-03-Tembe/grasshopper.jpg!
+This grasshopper is almost a bird
 
 !</images/2013-03-Tembe/fire.jpg!
 A cooking fire
 
+!</images/2013-03-Tembe/cooking.jpg!
+Preparing fish at Emidio's house
+
 !</images/2013-03-Tembe/arrowheads.jpg!
 Elias's stock of arrows
+
+!</images/2013-03-Tembe/beads.jpg!
+Beadwork is a major activity, and makes great wall decorations
 
 !</images/2013-03-Tembe/augustine.jpg!
 Working with Augustine
 
-!</images/2013-03-Tembe/beads.jpg!
-Beadwork is a major activity -- this set of bracelets was the sole decoration on a wall
-
-!</images/2013-03-Tembe/exit.jpg!
-A stop on our exit after a three hour ride in the tray; one hour to go
-
 !</images/2013-03-Tembe/festa.jpg!
 The festa, with all night singing and dancing
 
-!</images/2013-03-Tembe/grasshopper.jpg!
-This grasshopper is almost a bird
-
 !</images/2013-03-Tembe/hammock.jpg!
-Everyone sleeps in hammocks to keep off the ground and out of reach of creepy crawlies
+Hammocks keep you out of reach of creepy crawlies
 
 !</images/2013-03-Tembe/house.jpg!
 My friend Roberto and his family
-
-!</images/2013-03-Tembe/houses.jpg!
-Dawn light on two Tembé houses
 
 !</images/2013-03-Tembe/boat.jpg!
 Outboard motor attached to a dugout canoe
 
 !</images/2013-03-Tembe/river.jpg!
-The river at the bottom of the village
+The main road deeper into the rainforest
 
 !</images/2013-03-Tembe/parrot.jpg!
-The life of a pet parrot
+A pet's life
 
 !</images/2013-03-Tembe/turtle.jpg!
 Strung up by the exoskeleton awaiting its fate -- I wanted to free him!
 
 !</images/2013-03-Tembe/sidney.jpg!
-Tembé IT manager: cultural 
+Tembé IT manager: hybrid culture
+
+!</images/2013-03-Tembe/houses.jpg!
+Tembé houses in the dawn light
 
 !</images/2013-03-Tembe/woman.jpg!
 I saw this woman looking out of her window just as the rains passed
 
-
+!</images/2013-03-Tembe/exit.jpg!
+A selfie after a three hour ride in the tray; one hour to go
 
