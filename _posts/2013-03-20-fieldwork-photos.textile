@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Fieldwork photos"
+title: "Photographs from my visit to a Tembe Village"
+tags : [fieldwork, photos]
 ---
 
 h1. {{ page.title }}
