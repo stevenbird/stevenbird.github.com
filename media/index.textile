@@ -1,0 +1,33 @@
+---
+layout: page
+title: Media
+description: ""
+---
+{% include JB/setup %}
+
+<div id="writing">
+
+* "*Androids in Amazonia: recording an endangered language*":http://theconversation.com/androids-in-amazonia-recording-an-endangered-language-12865
+* "*Meet cyberlinguist Steven Bird*":http://blogs.abc.net.au/nsw/2013/03/meet-cyberlinguist-steven-bird-.html
+* "*Cyberlinguistics: recording the world’s vanishing voices*":https://theconversation.com/cyberlinguistics-recording-the-worlds-vanishing-voices-12644
+* "*Melbourne Age: High schools to trial uni computer science in Y12*":http://www.theage.com.au/it-pro/business-it/high-schools-to-trial-uni-computer-science-in-y12-20120719-22c99.html
+* "*Melbourne University: So you think you are an IT expert?*":http://newsroom.melbourne.edu/news/n-854
+* "*Mobile telephones helping to preserve PNG languages*":http://www.radioaustralia.net.au/pacific/radio/onairhighlights/mobile-telephones-helping-to-preserve-png-languages
+* "*The Melbourne Engineer*: IT researchers preserving remote PNG languages":http://themelbourneengineer.eng.unimelb.edu.au/2012/02/it-researchers-preserving-the-remote-languages-of-png/
+* "*ICT Update*: Language technology":http://ictupdate.cta.int/en/Regulars/Q-A/Q-A-Using-the-right-words
+* "*Sydney Morning Herald*: Big brains coming back to Melbourne":http://www.smh.com.au/news/next/big-brains-coming-back-to-melbourne/2005/12/05/1133631187436.html
+* "*Uni News*: Reversing the brain drain":http://uninews.unimelb.edu.au/articleid_2985.html
+* "*BBC*: Digital race to save languages":http://news.bbc.co.uk/2/hi/technology/2857041.stm
+* "*Uni News*: Global mission races to save dying languages":http://uninews.unimelb.edu.au/articleid_359.html
+* "*ABC Radio National*: Indigenous Language":http://www.abc.net.au/rn/talks/brkfast/stories/s764119.htm
+* "*Wired News*: Word Up: Keeping Languages Alive":http://wired.com/news/culture/0,1284,54345,00.html
+* "*Scientific American*: Saving Dying Languages":http://www.language-archives.org/documents/sciam.pdf
+* "*ABCNews.com*: Tongue-Tied":http://abcnews.go.com/sections/world/DailyNews/endangered_languages.html
+* "*National Public Radio*: Endangered Languages":http://www.sciencefriday.com/pages/2002/Mar/hour2_030802.html
+* "*Internet Week*: Ellis Island Project":http://www.internetweek.com/reload01/reload050701.htm
+* "*Avotaynu*: Ellis Island Project":http://www.avotaynu.com/ellisisland.htm
+* "*Boston Globe*: Vanishing tongues":http://www.ldc.upenn.edu/exploration/boston-globe.txt
+
+</div>
+
+
