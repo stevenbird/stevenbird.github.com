@@ -129,7 +129,8 @@ hr {
 }
 /* line 111, ../_sass/_base.scss */
 .content img {
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+/*  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8); */
+  padding: 5px;
 }
 /* line 115, ../_sass/_base.scss */
 .content.no-header {
