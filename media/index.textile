@@ -22,8 +22,8 @@ description: ""
 * "*ABC Radio National*: Indigenous Language":http://www.abc.net.au/rn/talks/brkfast/stories/s764119.htm
 * "*Wired News*: Word Up: Keeping Languages Alive":http://wired.com/news/culture/0,1284,54345,00.html
 * "*Scientific American*: Saving Dying Languages":http://www.language-archives.org/documents/sciam.pdf
-* "*ABCNews.com*: Tongue-Tied":http://abcnews.go.com/sections/world/DailyNews/endangered_languages.html
-* "*National Public Radio*: Endangered Languages":http://www.sciencefriday.com/pages/2002/Mar/hour2_030802.html
+* "*ABCNews.com*: Tongue-Tied":http://web.archive.org/web/20040407091958/http://abcnews.go.com/sections/world/DailyNews/endangered_languages.html
+* "*National Public Radio*: Endangered Languages":http://web.archive.org/web/20020327121109/http://www.sciencefriday.com/pages/2002/Mar/hour2_030802.html
 * "*Internet Week*: Ellis Island Project":http://www.internetweek.com/reload01/reload050701.htm
 * "*Avotaynu*: Ellis Island Project":http://www.avotaynu.com/ellisisland.htm
 * "*Boston Globe*: Vanishing tongues":http://www.ldc.upenn.edu/exploration/boston-globe.txt

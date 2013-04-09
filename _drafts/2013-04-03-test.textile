@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Test"
+tags : [memoir]
+---
+
+h1. {{ page.title }}
+
+test
+
