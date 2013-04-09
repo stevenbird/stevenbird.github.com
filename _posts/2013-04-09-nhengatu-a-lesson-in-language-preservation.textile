@@ -1,0 +1,99 @@
+---
+layout: post
+title: "Nhengatu: A Lesson in Language Preservation"
+tags : [fieldwork, software]
+---
+
+<script type="text/javascript" src="/scripts/swfobject.js"> </script>
+
+h1. {{ page.title }}
+
+The language of "Nhengatu":http://www.ethnologue.com/language/yrl is spoken by about 10,000 people in the Amazon, including the small village of Terra Preta. This village is a short boat ride up the Rio Negro from Manaus. I went there last Sunday.
+
+!</images/2013-04-Nhengatu/aldevan_baniwa.jpg!
+Aldevan Baniwa, my Nhengatu guide
+
+!/images/2013-04-Nhengatu/petrol.jpg!
+After filling up, we were on our way
+
+We tracked along the northern side of the river, dense rainforest on our right and a vast expanse of water on our left. The Rio Negro is more than 10km wide in places. We saw a tucaxí (river dolphin). Aldevan talked about the hazards of the river: "anaconda":http://en.wikipedia.org/wiki/Anaconda, "jacaré":http://en.wikipedia.org/wiki/Yacare_caiman, "piranha":http://en.wikipedia.org/wiki/Piranha, "candirú":http://en.wikipedia.org/wiki/Candiru (notorious for invading the urethra). Our boat suddenly felt tiny. We were tossed around on the wake of the large boats coming in the opposite direction. I was glad we were close to shore. Still, it was too hot to wear the life vest. It would only slow down my sprint to the shore if we were to capsize.
+
+After an hour and a half, our driver slowed the boat and pulled through a narrow break in the semi-submerged trees that obscured the riverbank. Aldevan and I clambered out of the boat, glad to stretch our backs after the bumpy crouching boatride. Also with us was Isaac, who had been with me in the Tembé village, and who was ready for a new adventure.
+
+!</images/2013-04-Nhengatu/riverbank.jpg!
+Maneuvering our boat into position beside the schoolboat
+
+!/images/2013-04-Nhengatu/macaw.jpg!
+The first local that we met, an acacá (macaw)
+
+<br/>
+The town is centred on a soccer pitch, a common plan for Indian villages it seems (view a "satellite picture of the village":https://maps.google.com/?ll=-2.919854,-60.46787&z=17 via Google maps; zoom out for some context).
+
+We were met by Arnaldo Yarumare. I asked Arnaldo for the name of his language. It was Baré, but then he said no-one speaks Baré any more. How curious to be affiliated with a dead language. Later I checked the "Ethnologue entry for Baré":http://www.ethnologue.com/language/bae, which says that the language is still spoken, but probably not for very much longer. Arnaldo continued: like some other Baré speakers, he has switched to Nhengatu. We talked further, then I was glad to rest in a hammock in Arnaldo's breezy porch. It had been a 5am start that day. After an hour or so, Arnaldo asked if I would like to try some local food. I agreed, and so he led us up the hill, threading our way through wooden houses mostly on stilts, greeting people with _yane kwema_.
+
+We arrived at a building with a corrugated iron roof and no walls, set on a raised concrete base. Benches were arranged around the perimeter, and were close to capacity with about 50 people. In the centre were two large tables, one set out with food. The moment we arrived, people crowded around the central table, filled their plates, sat on the benches, and ate. I wondered if we would be invited to join them. No-one acknowledged our presence, and I felt invisible. Yet being unobserved I felt unselfconscious about observering.
+
+h2. Practical demonstration
+
+After lunch, Arnaldo addressed the group then passed over to Aldevan who talked about our language recording work. Soon I was invited to speak. I asked whether the children speak Nhengatu (they don't) and whether there are any storytellers (there are). They named one man who is now well into his 80s, who we passed on our way. Not wanting to speak too long, I asked for a volunteer to tell a story. After a brief pause there seemed to be consensus and a man called Jonas Alesio stood up. I handed him one of the phones and he recounted the story of the "Curupira":http://en.wikipedia.org/wiki/Curupira. He spoke well and drew an enthusiastic response from his audience. Next, Samuel Alexo agreed to translate. After a 20-second demonstration, he used our "Aikuma":http://lp20.org/ app to translate Jonas' story into Portuguese without difficulty.
+
+!</images/2013-04-Nhengatu/jonas_alesio.jpg!
+Jonas Alesio, recounting a story
+
+!/images/2013-04-Nhengatu/samuel_alexo.jpg!
+Samuel Alexo, translating phrase-by-phrase
+
+Once he finished, I replayed the recording and translation to the group:
+<div id="nhengatu_story">(sound player requires javascript to be enabled)</div>
+<div id="nhengatu_trans">(sound player requires javascript to be enabled)</div>
+
+I asked whether they would like us to return another day to record more stories and prepare a CD. Samuel stood and addressed the group, explaining the importance of this work to record the language and to make sure that the children would be able to understand the stories. Then Samuel addressed me and spoke about the need for a mutual exchange. They could participate in our recording work. Would we help them to produce a DVD?
+
+I was struck by the fact that Samuel saw their participation in audio recording as a favour to me, when I had just presented it as a favour to them. Perhaps Aldevan's introduction of me as a researcher was the trigger: Indians bristle at the word *pesquisador*, given the history of outsiders coming and taking things away. I offered to record some video but said I wasn't sure about producing DVDs. Perhaps they could do that in their computer room? Samuel closed by saying that he would speak to the rest of the village and then contact us.
+
+I was also struck that there was a computer room here, and asked to see it. We were taken to the next building and ushered into a room containing computers, monitors, a router, and uniterruptable power supplies. All still boxed. All to be powered by the generator for a few hours each day.
+
+!</images/2013-04-Nhengatu/computer_room.jpg!
+At the new computer room, with 11 unboxed desktop computers
+
+!/images/2013-04-Nhengatu/router.jpg!
+Router and uninterruptable power supplies
+
+<br/>
+As we walked away, I reflected to Isaac that this was our first experience of an immediately positive reception to this work, in which a village leader understood the work and expressed the desire to cooperate. We ended up back at Arnaldo's house, with a meal of catfish and rice set out before us.
+
+h2. A new realisation
+
+On the boat ride back to Manaus I reflected on our brief recording session. There was the woman videoing Jonas on her phone, who kept getting in the way of my photography. Why didn't I get a wide-angle shot including her? There was Jonas' one-handed gestures, while he held the phone in his other hand. There was the request to assist with a DVD. The whole situation was screaming VIDEO at me.
+
+There was also the slow process of capturing the speaker's details in the phone before recording; could this be made any easier?
+
+!/images/2013-04-Nhengatu/metadata.jpg!
+Collecting `metadata': some things have no easy solution
+
+There was the computer room, and the fact that many villages are getting grants to set them up. There was the wireless router which they unboxed in front of me. There was the requirement to store recordings locally. A local area network and associated file storage would soon be in place.
+
+In this place, and others like it, video documentation on mobile phones would be possible. There would be network capacity for synchronizing video recordings to a computer and to other phones. The person being recorded would not have to hold the phone -- someone else would be videoing. We would need a new app, one which supported video playback. A user would pause the video to record an audio commentary or translation. Another playback mode would interleave the video with the spoken translation. People would share videos and playlists. The locally-owned phones would become the dissemination medium. Or something like that.
+
+I need to think about it some more.
+
+!</images/2013-04-Nhengatu/audience.jpg!
+Listening to Jonas' story
+
+!/images/2013-04-Nhengatu/catfish.jpg!
+Our lunch of catfish and rice
+
+
+<script type="text/javascript">
+  var so = new SWFObject('/scripts/player.swf','mpl','400','24','9');
+  so.addParam('allowfullscreen','true');
+  so.addParam('allowscriptaccess','always');
+  so.addParam('wmode','opaque');
+  so.addVariable('duration','222');
+  so.addVariable('file','/audio/nhengatu_story.mp3');
+  so.write('nhengatu_story');
+  so.addVariable('duration','341');
+  so.addVariable('file','/audio/nhengatu_trans.mp3');
+  so.write('nhengatu_trans');
+</script>
+
