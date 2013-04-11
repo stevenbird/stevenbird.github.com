@@ -8,6 +8,9 @@ tags : [fieldwork, software]
 
 h1. {{ page.title }}
 
+!/images/2013-04-Nhengatu/metadata.jpg!
+Showing off the Aikuma smartphone app for recording and translating spoken language
+
 The village of Terra Preta is a short boat ride up the Rio Negro from Manaus. I went there last Sunday, wondering if I could interest the villagers in language recording work using our mobile phone app.
 
 After leaving Manaus, we tracked along the northern bank of the river, about 50m out, dense rainforest on our right and a vast expanse of water on our left. The Rio Negro is more than 10km wide in places. We watched a little "tucuxi":http://en.wikipedia.org/wiki/Tucuxi, or river dolphin, arching out of the water. Aldevan scared me with his talk about the hazards of the river, the "anaconda":http://en.wikipedia.org/wiki/Anaconda, "jacaré":http://en.wikipedia.org/wiki/Yacare_caiman, "piranha":http://en.wikipedia.org/wiki/Piranha, "candirú":http://en.wikipedia.org/wiki/Candiru (notorious for invading the urethra). Our boat felt tiny as we were tossed around on the wake of the large boats coming in the opposite direction. Still, it was too hot to wear the life vest and it would only slow down my sprint to the shore if we were to capsize.
@@ -43,15 +46,16 @@ Jonas Alesio, recounting a story
 !/images/2013-04-Nhengatu/samuel_alexo.jpg!
 Samuel Alexo, translating phrase-by-phrase
 
-Once he finished, I replayed the recording and translation to the group:
+Once he finished, I replayed the recording and translation for everyone to hear.
 <div id="nhengatu_story">(sound player requires javascript to be enabled)</div>
 <div id="nhengatu_trans">(sound player requires javascript to be enabled)</div>
+(Scroll to the bottom of this post for an English paraphrase.)
 
 I asked whether they would like us to return another day to record more stories and prepare a CD. Samuel stood and addressed the group, explaining the importance of this work to record the language and to make sure that the children would be able to understand the stories. Now Samuel addressed me and spoke about the need for an exchange. They could participate in our recording work. Would we help them to produce a DVD?
 
-I was struck by the fact that Samuel viewed their participation in audio recording as a favour to me, when I had just presented it as a favour to them. Perhaps Aldevan's introduction of me as a researcher was the trigger: Indians bristle at the word _pesquisador_, given the history of outsiders coming and taking things away. I offered to record some video but said I wasn't sure about producing DVDs. Perhaps they could do that in their computer room? Samuel offered to speak to the rest of the village and then contact us.
+That was strange: Samuel viewed their participation in audio recording as a favour to me, when I had just presented it as a favour to them. Its true that I wanted their participation. Was it disingenuous of me to present it as a service to them? Perhaps Aldevan's introduction of me as a researcher was the trigger: Indians bristle at the word _pesquisador_ given the history of outsiders coming and taking things away. As we parted, Samuel offered to speak to the rest of the village and then get back to us.
 
-I was also surprised to discover that there was a computer room here. I asked to see it, and soon we were ushered into a room containing computers, monitors, a router, and uniterruptable power supplies. All still boxed. All to be powered by the generator for a few hours each day.
+I was curious to see the computer room, and so we were ushered into a room containing computers, monitors, a router, and uniterruptable power supplies. All still boxed. These would eventually be powered by the generator for a few hours each day.
 
 !</images/2013-04-Nhengatu/computer_room.jpg!
 At the new computer room, with 11 unboxed desktop computers
@@ -60,18 +64,11 @@ At the new computer room, with 11 unboxed desktop computers
 Router and uninterruptable power supplies
 
 <br/>
-As we walked away, I commented to Isaac that this was our first experience of an immediately positive reception to this work. A village leader understood and valued the work, and publicly expressed a desire to cooperate. We were soon back at Arnaldo's house, with a meal of catfish and rice set out before us.
-
-By now it was about 2pm. I settled down to wait for a couple of hours until we could go back on the river. Aldevan had said we should not be on the river between 9am and 4pm, as it was too rough. Then Aldevan and our driver speculated about staying in the village overnight. I wasn't sure that I heard right. Isaac wondered if they wanted to go fishing. I pictured another lengthy village exit, and decided to press Aldevan to return at 4pm, or even earlier if possible. Five minutes later we were on the boat pulling out into the big river on calm water.
+As we walked away, I commented to Isaac that this was our first experience of a clear, positive reception. A village leader understood and valued our work and publicly expressed a desire to cooperate. We were soon back at Arnaldo's house, with a meal of catfish and rice set out before us.
 
 h2. A new realisation
 
-On the boat ride back to Manaus I reflected on our brief recording session. There was the woman videoing Jonas on her phone, who kept getting in the way of my photography. Why didn't I get a wide-angle shot including her? There was Jonas' one-handed gestures, while he held the phone in his other hand. There was the request to assist with a DVD. The whole situation was screaming VIDEO at me.
-
-There was also the slow process of capturing the speaker's details in the phone before recording; could this be made any easier?
-
-!/images/2013-04-Nhengatu/metadata.jpg!
-Collecting `metadata': entering the speaker's name, language, etc
+On the boat ride back to Manaus I reflected on our brief recording session. There was the woman videoing Jonas on her phone. She kept getting in the way of my photography. Why didn't I get a wide-angle shot including her? There was Jonas' one-handed gestures, while he held the phone in his other hand. There was the request to assist with a DVD. The whole situation was screaming _VIDEO_ at me.
 
 There was the computer room, and the fact that many villages are getting grants to set them up. There was the wireless router which they unboxed in front of me. There was the requirement to store recordings locally. A local area network and associated file storage would soon be in place.
 
@@ -84,6 +81,27 @@ Listening to Jonas' story
 
 !/images/2013-04-Nhengatu/catfish.jpg!
 Our lunch of catfish and rice
+
+h2. The Tale of the Curupira
+
+_Recounted by Jonas Alesio (Nhengatu), orally translated by Samuel Alexo (Portuguese), paraphrased by Isaac McAlister_
+
+Once upon a time, a man went out into the forest to collect sorva. He very much enjoyed working with sorva, cipó and the roots of the piassava tree, for this was how he earned his living. He would spend two or three weeks at a stretch deep in the forest working with these products.
+
+On one particular day, the man came to the foot of a sorva tree. He climbed the tree at once and began to extract the tree’s juice. After a while, from up in the sorva tree, the man heard a strange sound, as if someone were running through the forest, running to get something. When the man heard this noise, a sort of buzzing sound, he looked down to the ground. There he saw what seemed to be a little man. It was what in Nhengatú we call the Curupira. 
+
+So the man stared down at this person that he had never before seen in all his life. He noticed that it was covered entirely in long, thick hair, so much so that one could not see its face; and its feet were pointed backward.
+
+Before climbing up into the sorva tree, the man had put his rifle down and left it at the foot of the tree. Having now seen this creature down on the ground, the man yelled down at it, “Leave my rifle right where it is!” At this moment, the creature picked up the karauatá where the man had been collecting the juice of the sorva tree and began to pour it out. Seeing this, the man became very angry and he yelled down, “Look little one! You had better leave that karauatá be or I’m going to come down there and I’m going to give you a beating!” So the man came down from up in the tree and he cut himself a switch. The first lashing that he gave to that creature, it just took it. The second lashing that he gave it, again the creature remained impassive. But as the man swung his switch for a third time, the creature called the Curupira suddenly grasped the stick and struck the man with it, knocking him to the ground where he promptly fainted. 
+
+As the man lay on the ground, the Curupira picked up the container of sorva juice, picked up the man’s rifle and finally picked up the man himself and hoisted him upon its shoulder. It then took him back to where the man had left his canoe.
+
+When the man came to, he was lying on the riverbank right by his own canoe. He looked behind him and saw the Curupira sitting not far away from him. Now the man was afraid. He crawled to his canoe. Turning around again, he saw the creature once more now far away. The man got into his canoe and began to row. He headed straight for home. 
+
+When he finally arrived home and his wife saw him, she was surprised since her husband usually returned from the forest in the afternoon. This time, though, he had come back quite early. The man’s wife said to him, “My husband, why have you arrived so early? You always come back later than this: 3 in the afternoon, 6 in the afternoon…But now you’ve come back early. What could have happened?” So the man said to his wife, “Look, I’ve been through something truly terrifying! There in the forest, a creature appeared, the likes of which I have never seen before in my life. It gave me a beating and I must have fainted. But, that same creature picked me up and carried me to the river where he left me right by my canoe. That is why I came back so early today.” The man no longer knew what to say or how to explain what had happened to him for he was too frightened. It was then that he began to feel his body ache…
+
+_(And there I will end this tale that I have told for you, you all who are white people, here listening to this tale. Thank you very much!)_
+
 
 
 <script type="text/javascript">
