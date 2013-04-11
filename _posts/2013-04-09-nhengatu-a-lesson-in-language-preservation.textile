@@ -11,7 +11,7 @@ h1. {{ page.title }}
 !/images/2013-04-Nhengatu/metadata.jpg!
 Showing off the Aikuma smartphone app for recording and translating spoken language
 
-The village of Terra Preta is a short boat ride up the Rio Negro from Manaus ("satellite picture":https://maps.google.com/?ll=-2.919854,-60.46787&z=17). I went there last Sunday, wondering if I could interest the villagers in language recording work using our mobile phone app.
+The village of Terra Preta is a short boat ride up the Rio Negro from Manaus ("satellite picture":https://maps.google.com/?ll=-2.919854,-60.46787&z=17). I went there last Sunday, hoping to give the Nhengatu people a short lesson in language preservation, and wondering if I could interest them in doing some recording work using our mobile phone app.
 
 After leaving Manaus, we tracked along the northern bank of the river, about 50m out, dense rainforest on our right and a vast expanse of water on our left. The Rio Negro is more than 10km wide in places. We watched a "tucuxi":http://en.wikipedia.org/wiki/Tucuxi, or river dolphin, arching out of the water. Aldevan scared me with his talk about the hazards of the river, the "anaconda":http://en.wikipedia.org/wiki/Anaconda, "jacaré":http://en.wikipedia.org/wiki/Yacare_caiman, "piranha":http://en.wikipedia.org/wiki/Piranha, "candirú":http://en.wikipedia.org/wiki/Candiru (notorious for invading the urethra). Our boat felt tiny as we were tossed around on the wake of the large boats coming in the opposite direction. Still, it was too hot to wear the life vest and it would only slow down my sprint to the shore if we were to capsize!
 
@@ -34,7 +34,7 @@ We were met by Arnaldo Yarumare. Opening my notebook, I mechanically asked Arnal
 
 We arrived at a building with a corrugated iron roof and no walls, set on a raised concrete base. Shade. The benches arranged around the perimeter were close to capacity with about 50 people. In the centre, a large table was set out with food. The moment we arrived everyone moved to the table, filled their plates, returned to the benches, and ate. Would we be invited to join them? No-one acknowledged our presence so I felt invisible, yet being unobserved I felt unselfconscious about observing. Monitoring whether people were speaking Portuguese or Nhengatu.
 
-h2. Practical demonstration
+h2. A lesson in language preservation (take 1)
 
 After lunch the children disappeared, and Arnaldo publicly welcomed us. Aldevan talked about our language recording work. Soon it was my turn. I asked whether the children speak Nhengatu (they don't) and whether there are any storytellers (there are). They named one man who is now well into his eighties, but not present with us. I asked for a volunteer to tell a story to the group. After a brief pause there seemed to be consensus and a man called Jonas Alesio stood up. I handed him one of the phones and he recounted the story of the "Curupira":http://en.wikipedia.org/wiki/Curupira. His story enthralled his audience. Next, Samuel Alexo agreed to translate. After a 20-second demonstration, he used our "Aikuma":http://lp20.org/ app to translate Jonas' story into Portuguese.
 
@@ -64,7 +64,7 @@ Router and uninterruptable power supplies
 <br/>
 As we walked away, I commented to Isaac that this was our most positive reception to date. A village leader understood and valued our work and publicly expressed a desire to cooperate. We were soon back at Arnaldo's house, where a meal of catfish and rice was waiting for us.
 
-h2. A reflection
+h2. A lesson in language preservation (take 2)
 
 On the boat ride back to Manaus I reflected on our brief recording session. There was the woman videoing Jonas on her phone. She kept getting in the way of my photography. Why didn't I get a wide-angle shot including her? There was Jonas' one-handed gestures, while he held the phone in his other hand. There was the request to assist with a DVD. The whole situation was screaming _VIDEO_ at me.
 
