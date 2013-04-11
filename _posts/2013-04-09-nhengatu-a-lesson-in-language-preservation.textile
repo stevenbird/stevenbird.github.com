@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nhengatu: A Lesson in Language Preservation"
+title: "Nhengatu: A Timely Lesson in Language Preservation"
 tags : [fieldwork, software]
 ---
 
