@@ -72,7 +72,7 @@ In our app development we had focussed on audio because video files are often to
 
 In this place, and others like it, video documentation on mobile phones would be possible. This was a game changer. The person being recorded would not hold the phone -- someone else would be videoing. We would need a new app, one which supported video playback. A user would pause the video to record an audio commentary or translation. Another playback mode would interleave the video with that spoken translation. People would share videos and playlists. The locally-owned phones would become the dissemination medium. Or something like that.
 
-I need to think about it some more.
+I need to think about it some more...
 
 !</images/2013-04-Nhengatu/audience.jpg!
 Listening to Jonas' story
