@@ -62,15 +62,15 @@ At the new computer room, with 11 unboxed desktop computers
 Router and uninterruptable power supplies
 
 <br/>
-As we walked away, I commented to Isaac that this was our first experience of a clear, positive reception. A village leader understood and valued our work and publicly expressed a desire to cooperate. We were soon back at Arnaldo's house, with a meal of catfish and rice set out before us.
+As we walked away, I commented to Isaac that this was our most positive reception to date. A village leader understood and valued our work and publicly expressed a desire to cooperate. We were soon back at Arnaldo's house, where a meal of catfish and rice was waiting for us.
 
 h2. A new realisation
 
 On the boat ride back to Manaus I reflected on our brief recording session. There was the woman videoing Jonas on her phone. She kept getting in the way of my photography. Why didn't I get a wide-angle shot including her? There was Jonas' one-handed gestures, while he held the phone in his other hand. There was the request to assist with a DVD. The whole situation was screaming _VIDEO_ at me.
 
-There was the computer room, and the fact that many villages are getting grants to set them up. There was the wireless router which they unboxed in front of me. There was the requirement to store recordings locally. A local area network and associated file storage would soon be in place.
+In our app development we had focussed on audio because video files are often too large to upload over a 3G network. However, here there was the computer room, and the fact that many Indian villages are getting grants to set them up. There was the wireless router which they unboxed in front of me. There was the requirement to store recordings locally. A local area network and associated file storage would soon be in place. There would be no bandwidth problem.
 
-In this place, and others like it, video documentation on mobile phones would be possible. This was a game changer. There would be network capacity for synchronizing video recordings to a computer and to other phones. The person being recorded would not have to hold the phone -- someone else would be videoing. We would need a new app, one which supported video playback. A user would pause the video to record an audio commentary or translation. Another playback mode would interleave the video with the spoken translation. People would share videos and playlists. The locally-owned phones would become the dissemination medium. Or something like that.
+In this place, and others like it, video documentation on mobile phones would be possible. This was a game changer. The person being recorded would not hold the phone -- someone else would be videoing. We would need a new app, one which supported video playback. A user would pause the video to record an audio commentary or translation. Another playback mode would interleave the video with that spoken translation. People would share videos and playlists. The locally-owned phones would become the dissemination medium. Or something like that.
 
 I need to think about it some more.
 
