@@ -11,9 +11,9 @@ h1. {{ page.title }}
 !/images/2013-04-Nhengatu/metadata.jpg!
 Showing off the Aikuma smartphone app for recording and translating spoken language
 
-The village of Terra Preta is a short boat ride up the Rio Negro from Manaus. I went there last Sunday, wondering if I could interest the villagers in language recording work using our mobile phone app.
+The village of Terra Preta is a short boat ride up the Rio Negro from Manaus ("satellite picture":https://maps.google.com/?ll=-2.919854,-60.46787&z=17). I went there last Sunday, wondering if I could interest the villagers in language recording work using our mobile phone app.
 
-After leaving Manaus, we tracked along the northern bank of the river, about 50m out, dense rainforest on our right and a vast expanse of water on our left. The Rio Negro is more than 10km wide in places. We watched a little "tucuxi":http://en.wikipedia.org/wiki/Tucuxi, or river dolphin, arching out of the water. Aldevan scared me with his talk about the hazards of the river, the "anaconda":http://en.wikipedia.org/wiki/Anaconda, "jacaré":http://en.wikipedia.org/wiki/Yacare_caiman, "piranha":http://en.wikipedia.org/wiki/Piranha, "candirú":http://en.wikipedia.org/wiki/Candiru (notorious for invading the urethra). Our boat felt tiny as we were tossed around on the wake of the large boats coming in the opposite direction. Still, it was too hot to wear the life vest and it would only slow down my sprint to the shore if we were to capsize.
+After leaving Manaus, we tracked along the northern bank of the river, about 50m out, dense rainforest on our right and a vast expanse of water on our left. The Rio Negro is more than 10km wide in places. We watched a "tucuxi":http://en.wikipedia.org/wiki/Tucuxi, or river dolphin, arching out of the water. Aldevan scared me with his talk about the hazards of the river, the "anaconda":http://en.wikipedia.org/wiki/Anaconda, "jacaré":http://en.wikipedia.org/wiki/Yacare_caiman, "piranha":http://en.wikipedia.org/wiki/Piranha, "candirú":http://en.wikipedia.org/wiki/Candiru (notorious for invading the urethra). Our boat felt tiny as we were tossed around on the wake of the large boats coming in the opposite direction. Still, it was too hot to wear the life vest and it would only slow down my sprint to the shore if we were to capsize!
 
 !</images/2013-04-Nhengatu/aldevan_baniwa.jpg!
 Aldevan Baniwa, my Nhengatu guide
@@ -21,7 +21,7 @@ Aldevan Baniwa, my Nhengatu guide
 !/images/2013-04-Nhengatu/petrol.jpg!
 After filling up, we were on our way
 
-After an hour and a half, our driver cut the engine and pulled through a narrow break in the semi-submerged trees that obscured the riverbank. Without the engine noise, the air was full of bird calls. Aldevan and I clambered out of the boat, glad to stretch our backs after the bumpy crouching boatride. Also with us was Isaac. He had joined me on a "trip to the Tembé village":http://theconversation.com/androids-in-amazonia-recording-an-endangered-language-12865, and who was keen for new adventure.
+After about 90 minutes our driver cut the engine and pulled through a gap in the semi-submerged trees that obscured the riverbank. Without the engine noise, the air was suddenly full of birdsong. The three of us, Aldevan, Isaac and I, climbed out of the boat, and laboured up the steep flight of steps to the first house of the village.
 
 !</images/2013-04-Nhengatu/riverbank.jpg!
 Maneuvering our boat into position beside the schoolboat
@@ -30,8 +30,6 @@ Maneuvering our boat into position beside the schoolboat
 The first local that we met, an acacá (macaw)
 
 <br/>
-The town of Terra Preta is centred on a soccer pitch, which seems to be a common plan for Indian villages (view a "satellite picture of the village":https://maps.google.com/?ll=-2.919854,-60.46787&z=17 via Google maps; zoom out for some context).
-
 We were met by Arnaldo Yarumare. Opening my notebook, I mechanically asked Arnaldo for the name of his language. Baré, he replied. Then he added that no-one speaks Baré any more. How curious to be affiliated with a dead language. Later I checked the "Ethnologue entry for Baré":http://www.ethnologue.com/language/bae and found that the language is still spoken, though probably not for very much longer. Arnaldo continued: like some other Baré speakers, he has now switched to "Nhengatu":http://www.ethnologue.com/language/yrl, a language having 10,000 speakers. My curiosity about the language situation satisfied, I was glad to rest in a hammock in Arnaldo's breezy porch. It had been a 5am start that day. After an hour or so, Arnaldo asked if I would like to try some local food. I agreed and so he led us up the hill, threading our way through wooden houses mostly on stilts, greeting people along the way. _Yane kwema_.
 
 We arrived at a building with a corrugated iron roof and no walls, set on a raised concrete base. Shade. The benches arranged around the perimeter were close to capacity with about 50 people. In the centre, a large table was set out with food. The moment we arrived everyone moved to the table, filled their plates, returned to the benches, and ate. Would we be invited to join them? No-one acknowledged our presence so I felt invisible, yet being unobserved I felt unselfconscious about observing. Monitoring whether people were speaking Portuguese or Nhengatu.
@@ -116,4 +114,6 @@ _(And there I will end this tale that I have told for you, you all who are white
   so.addVariable('file','/audio/nhengatu_trans.mp3');
   so.write('nhengatu_trans');
 </script>
+
+
 
