@@ -38,6 +38,7 @@ h3. Summer Schools
 
 h3. Plenary Talks
 
+* "Current Trends in Language Documentation": Campinas, Brazil (2013)
 * "International Conference on Papuan Cultural Diversity":http://icpcd.org/, Jayapura, Indonesia (2010)
 * "Digital Libraries for International Development":http://miksa.ils.unc.edu/dldev/program.html, Gold Coast, Australia (2010)
 * Open Language Data Working Group, Boston, USA (2010)
