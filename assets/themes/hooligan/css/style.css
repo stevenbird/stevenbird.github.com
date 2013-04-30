@@ -352,7 +352,14 @@ article.post header h1, article.post header h2 {
   margin: 0;
 }
 /* line 8, ../_sass/_post.scss */
-article.post header .category {
+article.post {
+  color: white;
+  border-left: 1px solid rgba(255, 255, 255, 0.2);
+  padding-left: 6px;
+  margin-left: 3px;
+}
+/* line 8, ../_sass/_post.scss */
+header .category {
   display: inline-block;
   color: white;
   border-left: 1px solid rgba(255, 255, 255, 0.2);
