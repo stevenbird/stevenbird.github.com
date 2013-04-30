@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Photographs from Terra Preta"
+tags : [fieldwork, photographs]
+---
+
+h1. {{ page.title }}
+
+I've just returned from four days in Terra Preta, a 50km boat ride up the Rio Negro from Manaus. My friends from the Tembe trip, Katie and Isaac, joined me and did an brilliant job with recording and transcribing Nhengatu stories. This post has a selection of photos from our trip.
+
+!</images/2013-04-Terra-Preta/departure.jpg!
+In front of our boat, after negotiating the price
+
+!</images/2013-04-Terra-Preta/river.jpg
+A photo from our boat; this is a river?
+
+!</images/2013-04-Terra-Preta/fishing.jpg
+Arnaldo, fishing for our lunch
+
+!</images/2013-04-Terra-Preta/piranha.jpg
+Our lunch (piranha)
+
+!</images/2013-04-Terra-Preta/house.jpg
+A typical house in Terra Preta
+
+!</images/2013-04-Terra-Preta/hammocks.jpg
+Our accommodation, in three hammocks on Arnaldo's porch
+
+!</images/2013-04-Terra-Preta/children.jpg
+Children listening to their recordings
+
+!</images/2013-04-Terra-Preta/artesan.jpg
+Some of the beautiful things you can make with açaí berries
+
+!</images/2013-04-Terra-Preta/canoes.jpg
+Aline (6) showing me canoes in the flooded forest behind the village
+
+!</images/2013-04-Terra-Preta/soccer.jpg
+Soccer occupied most of the weekend
+
+!</images/2013-04-Terra-Preta/recording.jpg
+Jonas, recording a translation
+
+!</images/2013-04-Terra-Preta/transcription.jpg
+Jeremias, Clodoaldo, and Jonas transcribing stories
+
+<br/>
+
+
