@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Cry no more: a work in progress"
+tags : [memoir, music]
+published: false
+---
+
+h1. {{ page.title }}
+
+Sometimes, life is like moving slowly, under unbroken ice, heart barely beating, searching for the airhole...
+
+Earlier this year, the woman who had stolen my heart casually tossed it away. A month later, frozen, anoxic, trapped, but somehow still beating.
+
+Now I was far from home in the wet heat of the Amazon rainforest. Every sensation contradicted my inner frozen world.
+
+I picked up my beautiful new hand-made Brazilian guitar. I opened my music book, and returned to this sublime piece, 
+
+
+
+I play on my own now. The baseline a heart beating slowly under the frozen surface of the top line, no gap to breathe.
+
+!{width:50%}/images/2013-04-Music/canto1.jpg!
+
+Blah blah...
+Blah blah...
+Blah blah...
+Blah blah...
+Blah blah...
+Blah blah...
+Blah blah...
+Blah blah...
+Blah blah...
+
+!={width:50%}/images/2013-04-Music/canto2.jpg!
+
+| You won't make it better, no way, you don't have control over it.   |
+| You won't make it better, no way, you don't have control over it... |
+| Cry cry, cry cry, no more, cry cry, cry cry, regret.                |
+| Cry cry, cry cry, no more, try try, try now, forget.                |
+
+
+!={width:50%}/images/2013-04-Music/canto3.jpg!
+A caption
+
+| Take a look around the world, there's so much more to see.    |
+| You can honour what has gone, and be free!                    |
+| Yes its your right to be alive, loving breathing in each day, |
+| There's a chance each road you take.                          |
+
+
+!={width:50%}/images/2013-04-Music/canto4.jpg!
+A caption
+
+
+http://www.youtube.com/watch?v=pugLLvTlA2A

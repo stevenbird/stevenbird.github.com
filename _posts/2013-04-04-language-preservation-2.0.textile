@@ -1,0 +1,16 @@
+---
+layout: post
+title: "My vision for Language Preservation 2.0"
+tags : [fieldwork, photos]
+published: false
+---
+
+h1. {{ page.title }}
+
+Most of the languages spoken today will fall out of use before the end of the century. This mass extinction represents a spectacular loss of cultural heritage, and linguists are working hard to record and analyse these languages while there is still time.
+
+!</images/2013-04-lp20/rosetta-stone-small.gif!
+
+Few of these languages have the economic significance to justify commercial investment. Instead
+
+
