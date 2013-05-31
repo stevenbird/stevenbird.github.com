@@ -10,6 +10,7 @@ h3. Leadership
 * Co-organizer, "International Workshop on Language Preservation":http://www.boldpng.info/iwlp, University of Goroka (2012)
 * Co-organiser, "Workshop on Studying Tone Languages in New Guinea: elicitation, analysis, and archiving":http://www.prosodicsystems.org/workshop2, Australian National University (2011)
 * Co-organiser, "Workshop on How to Study a Tone Language: from the first elicitation to the latest software":http://www.prosodicsystems.org/workshop1, University of California, Berkeley (2011)
+* Member of advisory committee for International Congress of Phonetic Sciences
 * Member of organizing committee for the "International Joint Conference on Natural Language Processing":http://itpe.siit.tu.ac.th/ijcnlp2011/, Chang Mai, Thailand (2011)
 * University of Melbourne ICT Steering Committee (2010-)
 * Chair of coordinating committee for the "48th International Meeting of the Association for Computational Linguistics":http://acl2010.org/, Uppsala, Sweden (2010)
