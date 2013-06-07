@@ -1,0 +1,34 @@
+---
+layout: post
+title: "The wrap up of my Brazil fieldwork"
+tags : [fieldwork]
+published: true
+---
+
+h1. {{ page.title }}
+
+Of the ~200 "languages spoken in Brazil":http://www.indios.org.br/en, about half are spoken in the Amazon.
+During March-May this year I had the privilege to work with speakers of Tembé, Ticuna, and Nhengatu,
+teaching them how to use mobile technologies for preserving their disappearing linguistic heritage.
+
+Much of the activity was close to water, which is probably not surprising given the vastness of the rivers: often many kilometres wide, and holding 20% of the world's freshwater.
+Access to language areas was different in each case: an eight hour drive (Tembé), a guide taking me deep into a warren of informal roads and dwellings on the outskirts of a city, and a boat ride up the Rio Negro.
+
+It was a true adventure: going into the unknown with little idea of what to expect, depending on others for the basics of survival, being welcomed by local indigenous people yet finding it challenging to establish some shared goals and activities. Then there were my new travelling companions Katie and Isaac, who got wind of my travels and wanted to come along for the adventure, and who were resilient when I was not.
+
+The work is summed up in three articles, each with an ABC interview:
+
+1. Earlier work in Papua New Guinea set the scene. I spent five weeks there in February and May 2012, field testing the software developed by my student Florian. This story and interview mark the start of my fieldwork in Brazil.
+
+* "Cyberlinguistics: recording the world’s vanishing voices":http://theconversation.com/cyberlinguistics-recording-the-worlds-vanishing-voices-12644 (11/3/13)
+* "Interview on ABC Sydney":https://dl.dropboxusercontent.com/u/11275962/abc702-2013-03-20.mp3 (20/3/13)
+
+2. The first village visit was difficult, more than anticipated. The situation was so foreign and there were many incomprehensions on both sides.
+
+* "Androids in Amazonia: recording an endangered language":http://theconversation.com/androids-in-amazonia-recording-an-endangered-language-12865 (29 March 2013)
+* "Interview on ABC Melbourne":https://dl.dropboxusercontent.com/u/11275962/abc774-2013-04-04.mp3 (4/4/13)
+
+3. The second village visit was altogether different. We found a more receptive community and they got fully involved in collecting, transcribing, and publishing their stories.
+
+* "Emerging writers of the Amazon: putting vanishing voices in print":http://theconversation.com/emerging-writers-of-the-amazon-putting-vanishing-voices-in-print-14629 (29 May 2013)
+* "Interview on ABC Hobart":https://dl.dropboxusercontent.com/u/11275962/abc936-2013-05-29.mp3 (29/5/13)
