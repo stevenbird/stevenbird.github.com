@@ -10,7 +10,7 @@ h1. {{ page.title }}
 !>/images/2013-05-Brazil-Fieldwork/steven.jpg!
 Travelling up the Rio Negro
 
-Of the ~200 "languages spoken in Brazil":http://www.indios.org.br/en, about half are spoken in the Amazon. During March-May this year I had the privilege to work with speakers of Tembé, Ticuna, and Nhengatu, teaching them how to use mobile technologies for preserving their disappearing linguistic heritage.
+Of the ~200 "languages spoken in Brazil":http://www.indios.org.br/en, about half are spoken in the Amazon. During March-May this year I had the privilege to work with speakers of Tembé, Nhengatu, and Ticuna, teaching them how to use mobile technologies for preserving their disappearing linguistic heritage.
 
 Much of the activity was close to water, which is probably not surprising given the vastness of the rivers: often many kilometres wide, and holding 20% of the world's freshwater.
 Access to language areas was different in each case: an eight hour drive (Tembé), a guide taking me deep into a warren of informal roads and dwellings on the outskirts of a city, and a boat ride up the Rio Negro.
@@ -33,3 +33,5 @@ The work is summed up in three articles, each with an ABC interview:
 
 * "Emerging writers of the Amazon: putting vanishing voices in print":http://theconversation.com/emerging-writers-of-the-amazon-putting-vanishing-voices-in-print-14629 (29/5/13)
 * "Interview on ABC Hobart":https://dl.dropboxusercontent.com/u/11275962/abc936-2013-05-29.mp3 (29/5/13)
+
+The third linguistic community was Ticuna -- interesting, complex, and vexing. I'll save it for another day...
