@@ -7,10 +7,10 @@ published: true
 
 h1. {{ page.title }}
 
-Of the ~200 "languages spoken in Brazil":http://www.indios.org.br/en, about half are spoken in the Amazon. During March-May this year I had the privilege to work with speakers of Tembé, Ticuna, and Nhengatu, teaching them how to use mobile technologies for preserving their disappearing linguistic heritage.
-
-!</images/2013-05-Brazil-Fieldwork/steven.jpg!
+!>/images/2013-05-Brazil-Fieldwork/steven.jpg!
 Travelling up the Rio Negro
+
+Of the ~200 "languages spoken in Brazil":http://www.indios.org.br/en, about half are spoken in the Amazon. During March-May this year I had the privilege to work with speakers of Tembé, Ticuna, and Nhengatu, teaching them how to use mobile technologies for preserving their disappearing linguistic heritage.
 
 Much of the activity was close to water, which is probably not surprising given the vastness of the rivers: often many kilometres wide, and holding 20% of the world's freshwater.
 Access to language areas was different in each case: an eight hour drive (Tembé), a guide taking me deep into a warren of informal roads and dwellings on the outskirts of a city, and a boat ride up the Rio Negro.
