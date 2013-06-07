@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Steven Bird
-tagline: Linguist, Computer Scientist, Preserver of Old Languages, ...
+tagline: Linguist, Computer Scientist, Preserver of Old Languages...
 ---
 {% include JB/setup %}
 
