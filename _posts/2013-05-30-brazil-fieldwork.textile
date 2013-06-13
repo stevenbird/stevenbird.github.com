@@ -7,14 +7,17 @@ published: true
 
 h1. {{ page.title }}
 
-!>/images/2013-05-Brazil-Fieldwork/steven.jpg!
-Travelling up the Rio Negro
+!>/images/2013-05-Brazil-Fieldwork/aikuma.jpg!
+Aikuma app for speech annotation
 
 Of the ~200 "languages spoken in Brazil":http://www.indios.org.br/en, about half are spoken in the Amazon. During March-May this year I had the privilege to work with speakers of Tembé, Ticuna, and Nhengatu, teaching them how to use mobile technologies for preserving their disappearing linguistic heritage. It was incredible to see how the technology didn't just enable the work, but motivated people to participate.
 
 Much of the activity was close to water -- unsurprising given the vastness of the rivers, often many kilometres wide and holding 20% of the world's freshwater. Access to language areas was different in each case: an eight hour drive into the rainforest (Tembé), a guide taking me deep into a warren of informal roads and dwellings on the outskirts of a city (Ticuna), and a boat ride up the Rio Negro (Nhengatu).
 
 This fieldwork was a true adventure: going into the unknown with little idea of what to expect, depending on others for the basics of survival, being welcomed by local indigenous people yet finding it challenging to establish shared goals and activities. And there were my new travelling companions Katie and Isaac, who got wind of my travels and wanted to come along for the adventure.
+
+!>/images/2013-05-Brazil-Fieldwork/steven.jpg!
+Travelling up the Rio Negro
 
 The work is summed up in three articles, each with an ABC interview:
 
