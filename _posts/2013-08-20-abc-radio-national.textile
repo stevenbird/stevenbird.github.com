@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Two Interviews on ABC Radio National"
+tags : [fieldwork]
+published: true
+---
+
+h1. {{ page.title }}
+
+Stories from the Brazilian Amazon, with Waleed Aly and Phillip Adams, on ABC Radio National:
+
+* ABC RN Drive with Waleed Aly: _Passport: Steven Bird, computer scientist and preserver of old languages_ ["audio":https://dl.dropboxusercontent.com/u/11275962/abc621-2013-06-20.mp3 | "website":http://www.abc.net.au/radionational/programs/drive/passport3a-steven-bird2c-computer-scientist-and-preserver-of-/4766450 ]
+* ABC RN Late Night Live with Phillip Adams and Carmel O'Shannessey: _Lost and found languages_ ["audio":https://dl.dropboxusercontent.com/u/11275962/abc621-2013-08-20.mp3 | "website":http://www.abc.net.au/radionational/programs/latenightlive/endangered-languages/4881164
+
+
+
+
+
