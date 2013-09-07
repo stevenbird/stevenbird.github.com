@@ -15,7 +15,7 @@ h2. In preparation / in press
 
 * "How to study a tone language":http://www.toneworkshop.org/tone-book
   Steven Bird and Larry Hyman (editors)
-* Simpler unsupervised POS tagging with bilingual projections.
+* "Simpler unsupervised POS tagging with bilingual projections":http://aclweb.org/anthology/P13-2112.pdf
   Long Duong, Paul Cook, Steven Bird and Pavel Pecina,
   _Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics_, Sofia, Bulgaria.
 
