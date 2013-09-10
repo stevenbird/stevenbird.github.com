@@ -15,6 +15,9 @@ h2. In preparation / in press
 
 * "How to study a tone language":http://www.toneworkshop.org/tone-book
   Steven Bird and Larry Hyman (editors)
+* Large-scale text collection for unwritten languages
+  Florian Hanke and Steven Bird,
+  _Proceedings of the 6th International Joint Conference on Natural Language Processing_, Nagoya, Japan
 * "Simpler unsupervised POS tagging with bilingual projections":http://aclweb.org/anthology/P13-2112.pdf
   Long Duong, Paul Cook, Steven Bird and Pavel Pecina,
   _Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics_, Sofia, Bulgaria.
