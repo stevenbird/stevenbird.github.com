@@ -5,7 +5,8 @@ title: Service
 
 h3. Leadership
 
-* Co-organiser, "Computer Science for High School (CS4HS)":http://www.cis.unimelb.edu.au/industry/cs4hs.html, Melbourne University (2011, 2012)
+* Member of program committee for the 11th International Conference on the Computational Processing of Portuguese (2014)
+* Co-organiser, "Computer Science for High School (CS4HS)":http://www.cis.unimelb.edu.au/industry/cs4hs.html, Melbourne University (2011, 2012, 2013)
 * Member, "PanLex Steering Committee":http://panlex.org/people/ (2012-)
 * Co-organizer, "International Workshop on Language Preservation":http://www.boldpng.info/iwlp, University of Goroka (2012)
 * Co-organiser, "Workshop on Studying Tone Languages in New Guinea: elicitation, analysis, and archiving":http://www.prosodicsystems.org/workshop2, Australian National University (2011)
