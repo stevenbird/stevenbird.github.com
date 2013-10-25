@@ -20,16 +20,16 @@ h2. 2013
 
 * "Increasing the quality and quantity of source language data for unsupervised cross-lingual POS tagging:"http://www.aclweb.org/anthology/I13-1177
   Long Duong, Paul Cook, Steven Bird and Pavel Pecina,
-  _Proceedings of the 6th International Joint Conference on Natural Language Processing_, 1243-1249, Nagoya, Japan
+  _Proceedings of the 6th International Joint Conference on Natural Language Processing_, pp1243-1249, Nagoya, Japan
 * "Large-scale text collection for unwritten languages":http://aclweb.org/anthology/I13-1161.pdf‎
   Florian Hanke and Steven Bird,
-  _Proceedings of the 6th International Joint Conference on Natural Language Processing_, 1134-1138, Nagoya, Japan
+  _Proceedings of the 6th International Joint Conference on Natural Language Processing_, pp1134-1138, Nagoya, Japan
 * "The International Workshop on Language Preservation: An Experiment in Text Collection and Language Technology":http://hdl.handle.net/10125/4593
   Steven Bird, David Chiang, Friedel Frowein, Andrea L. Berez, Mark Eby, Florian Hanke, Ryan Shelby, Ashish Vaswani, and Ada Wan.
   _Language Documentation and Conservation_ 7, 155-167
 * "Simpler unsupervised POS tagging with bilingual projections":http://aclweb.org/anthology/P13-2112.pdf
   Long Duong, Paul Cook, Steven Bird and Pavel Pecina,
-  _Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics_, Sofia, Bulgaria.
+  _Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics_, pp634-639, Sofia, Bulgaria.
 
 h2. 2012
 
