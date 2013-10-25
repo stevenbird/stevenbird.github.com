@@ -18,7 +18,7 @@ h2. In preparation / in press
 
 h2. 2013
 
-* "Increasing the quality and quantity of source language data for unsupervised cross-lingual POS tagging:"http://www.aclweb.org/anthology/I13-1177
+* "Increasing the quality and quantity of source language data for unsupervised cross-lingual POS tagging":http://www.aclweb.org/anthology/I13-1177
   Long Duong, Paul Cook, Steven Bird and Pavel Pecina,
   _Proceedings of the 6th International Joint Conference on Natural Language Processing_, pp1243-1249, Nagoya, Japan
 * "Large-scale text collection for unwritten languages":http://aclweb.org/anthology/I13-1161.pdf‎
