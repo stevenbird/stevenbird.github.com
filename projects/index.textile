@@ -9,7 +9,7 @@ Investigating new approaches to language preservation using techniques from lang
 <tr><td> !/images/mt4lp.png! </td><td>*Machine Translation for Language Preservation*
 Exploring the use of machine translation to accelerate the global language documentation effort, by enabling speakers of endangered languages to create large collections of translated oral literature, in collaboration with USC.<div id="note">&mdash; sponsored by the National Science Foundation</div></td></tr>
 <tr><td> !/images/cs4hs.png! </td><td>*Computer Science for High School*
-Developing curriculum and training secondary teachers, in collaboration with Monash University and the Victorian Curriculum Assessment Authority.<div id="note">&mdash; sponsored by Google Australia</div></td></tr>
+Developing a new computer science curriculum for the Victorian Certificate of Education and training secondary teachers, in collaboration with Monash University and the Victorian Curriculum Assessment Authority.<div id="note">&mdash; sponsored by the Institute for a Broadband-Enabled Society and by Google Australia</div></td></tr>
 <tr><td> !/images/language-commons.png!:http://languagecommons.org/ </td><td>*Language Commons*
 A consortium of academic, industrial and government institutions, creating a comprehensive collection of language resources, hosted in the Internet Archive under an open content license.</td></tr>
 <tr><td> !/images/png-prosody.png!:http://www.prosodicsystems.org/ </td><td>*Prosodic Systems in New Guinea*

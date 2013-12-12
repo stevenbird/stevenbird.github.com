@@ -7,6 +7,10 @@ description: ""
 
 <div id="writing">
 
+* "*Digital Rosetta Stone wins software challenge*":http://www.theage.com.au/national/education/voice/digital-rosetta-stone-wins-software-challenge-20131209-2z0f7.html
+* "*ABC RN Drive with Waleed Aly: _Passport: Steven Bird, computer scientist and preserver of old languages_*":http://www.abc.net.au/radionational/programs/drive/passport3a-steven-bird2c-computer-scientist-and-preserver-of-/4766450
+* "*ABC RN Late Night Live with Phillip Adams and Carmel O'Shannessey: _Lost and found languages_*":http://www.abc.net.au/radionational/programs/latenightlive/endangered-languages/4881164
+* "*Emerging writers of the Amazon: putting vanishing voices in print*":http://theconversation.com/emerging-writers-of-the-amazon-putting-vanishing-voices-in-print-14629
 * "*Androids in Amazonia: recording an endangered language*":http://theconversation.com/androids-in-amazonia-recording-an-endangered-language-12865
 * "*Meet cyberlinguist Steven Bird*":http://blogs.abc.net.au/nsw/2013/03/meet-cyberlinguist-steven-bird-.html
 * "*Cyberlinguistics: recording the world’s vanishing voices*":https://theconversation.com/cyberlinguistics-recording-the-worlds-vanishing-voices-12644
