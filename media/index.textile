@@ -7,16 +7,17 @@ description: ""
 
 <div id="writing">
 
-* "*Digital Rosetta Stone wins software challenge*":http://www.theage.com.au/national/education/voice/digital-rosetta-stone-wins-software-challenge-20131209-2z0f7.html
-* "*ABC RN Drive with Waleed Aly: _Passport: Steven Bird, computer scientist and preserver of old languages_*":http://www.abc.net.au/radionational/programs/drive/passport3a-steven-bird2c-computer-scientist-and-preserver-of-/4766450
-* "*ABC RN Late Night Live with Phillip Adams and Carmel O'Shannessey: _Lost and found languages_*":http://www.abc.net.au/radionational/programs/latenightlive/endangered-languages/4881164
-* "*Emerging writers of the Amazon: putting vanishing voices in print*":http://theconversation.com/emerging-writers-of-the-amazon-putting-vanishing-voices-in-print-14629
-* "*Androids in Amazonia: recording an endangered language*":http://theconversation.com/androids-in-amazonia-recording-an-endangered-language-12865
-* "*Meet cyberlinguist Steven Bird*":http://blogs.abc.net.au/nsw/2013/03/meet-cyberlinguist-steven-bird-.html
-* "*Cyberlinguistics: recording the world’s vanishing voices*":https://theconversation.com/cyberlinguistics-recording-the-worlds-vanishing-voices-12644
-* "*Melbourne Age: High schools to trial uni computer science in Y12*":http://www.theage.com.au/it-pro/business-it/high-schools-to-trial-uni-computer-science-in-y12-20120719-22c99.html
-* "*Melbourne University: So you think you are an IT expert?*":http://newsroom.melbourne.edu/news/n-854
-* "*Mobile telephones helping to preserve PNG languages*":http://www.radioaustralia.net.au/pacific/radio/onairhighlights/mobile-telephones-helping-to-preserve-png-languages
+* "*Melbourne Voice:* Digital Rosetta Stone wins software challenge":http://www.theage.com.au/national/education/voice/digital-rosetta-stone-wins-software-challenge-20131209-2z0f7.html
+* "*ABC Drum:* Why can a robot build a car but not a bird's nest?":http://www.abc.net.au/news/2013-08-02/birdandmeyer-computational-intelligence/4860008
+* "*ABC RN Drive:* Passport: Steven Bird, computer scientist and preserver of old languages":http://www.abc.net.au/radionational/programs/drive/passport3a-steven-bird2c-computer-scientist-and-preserver-of-/4766450
+* "*ABC RN Late Night Live:* Lost and found languages":http://www.abc.net.au/radionational/programs/latenightlive/endangered-languages/4881164
+* "*The Conversation:* Emerging writers of the Amazon: putting vanishing voices in print":http://theconversation.com/emerging-writers-of-the-amazon-putting-vanishing-voices-in-print-14629
+* "*The Conversation:* Androids in Amazonia: recording an endangered language":http://theconversation.com/androids-in-amazonia-recording-an-endangered-language-12865
+* "*ABC NSW:* Meet cyberlinguist Steven Bird":http://blogs.abc.net.au/nsw/2013/03/meet-cyberlinguist-steven-bird-.html
+* "*The Conversation:* Cyberlinguistics: recording the world’s vanishing voices":https://theconversation.com/cyberlinguistics-recording-the-worlds-vanishing-voices-12644
+* "*Melbourne Age: High schools to trial uni computer science in Y12":http://www.theage.com.au/it-pro/business-it/high-schools-to-trial-uni-computer-science-in-y12-20120719-22c99.html
+* "*Melbourne University: So you think you are an IT expert?":http://newsroom.melbourne.edu/news/n-854
+* "*Mobile telephones helping to preserve PNG languages":http://www.radioaustralia.net.au/pacific/radio/onairhighlights/mobile-telephones-helping-to-preserve-png-languages
 * "*The Melbourne Engineer*: IT researchers preserving remote PNG languages":http://themelbourneengineer.eng.unimelb.edu.au/2012/02/it-researchers-preserving-the-remote-languages-of-png/
 * "*ICT Update*: Language technology":http://ictupdate.cta.int/en/Regulars/Q-A/Q-A-Using-the-right-words
 * "*Sydney Morning Herald*: Big brains coming back to Melbourne":http://www.smh.com.au/news/next/big-brains-coming-back-to-melbourne/2005/12/05/1133631187436.html
