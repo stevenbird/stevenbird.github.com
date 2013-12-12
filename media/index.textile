@@ -7,31 +7,31 @@ description: ""
 
 <div id="writing">
 
-* "Melbourne Voice: _Digital Rosetta Stone wins software challenge_":http://www.theage.com.au/national/education/voice/digital-rosetta-stone-wins-software-challenge-20131209-2z0f7.html
-* "ABC Drum: _Why can a robot build a car but not a bird's nest?_":http://www.abc.net.au/news/2013-08-02/birdandmeyer-computational-intelligence/4860008
-* "ABC RN Drive: _Passport: Steven Bird, computer scientist and preserver of old languages_":http://www.abc.net.au/radionational/programs/drive/passport3a-steven-bird2c-computer-scientist-and-preserver-of-/4766450
-* "ABC RN Late Night Live: _Lost and found languages_":http://www.abc.net.au/radionational/programs/latenightlive/endangered-languages/4881164
-* "The Conversation: _Emerging writers of the Amazon: putting vanishing voices in print_":http://theconversation.com/emerging-writers-of-the-amazon-putting-vanishing-voices-in-print-14629
-* "The Conversation: _Androids in Amazonia: recording an endangered language_":http://theconversation.com/androids-in-amazonia-recording-an-endangered-language-12865
-* "ABC NSW: _Meet cyberlinguist Steven Bird_":http://blogs.abc.net.au/nsw/2013/03/meet-cyberlinguist-steven-bird-.html
-* "The Conversation: _Cyberlinguistics: recording the world’s vanishing voices_":https://theconversation.com/cyberlinguistics-recording-the-worlds-vanishing-voices-12644
-* "Melbourne Age: _High schools to trial uni computer science in Y12_":http://www.theage.com.au/it-pro/business-it/high-schools-to-trial-uni-computer-science-in-y12-20120719-22c99.html
-* "Melbourne University: _So you think you are an IT expert?_":http://newsroom.melbourne.edu/news/n-854
-* "Radio Australia: _Mobile telephones helping to preserve PNG languages_":http://www.radioaustralia.net.au/pacific/radio/onairhighlights/mobile-telephones-helping-to-preserve-png-languages
-* "The Melbourne Engineer: _IT researchers preserving remote PNG languages_":http://themelbourneengineer.eng.unimelb.edu.au/2012/02/it-researchers-preserving-the-remote-languages-of-png/
-* "ICT Update: _Language technology_":http://ictupdate.cta.int/en/Regulars/Q-A/Q-A-Using-the-right-words
-* "Sydney Morning Herald: _Big brains coming back to Melbourne_":http://www.smh.com.au/news/next/big-brains-coming-back-to-melbourne/2005/12/05/1133631187436.html
-* "Uni News: _Reversing the brain drain_":http://uninews.unimelb.edu.au/articleid_2985.html
-* "BBC: _Digital race to save languages_":http://news.bbc.co.uk/2/hi/technology/2857041.stm
-* "Uni News: _Global mission races to save dying languages_":http://uninews.unimelb.edu.au/articleid_359.html
-* "ABC Radio National: _Indigenous Language_":http://www.abc.net.au/rn/talks/brkfast/stories/s764119.htm
-* "Wired News: _Word Up: Keeping Languages Alive_":http://wired.com/news/culture/0,1284,54345,00.html
-* "Scientific American: _Saving Dying Languages_":http://www.language-archives.org/documents/sciam.pdf
-* "ABCNews.com: _Tongue-Tied_":http://web.archive.org/web/20040407091958/http://abcnews.go.com/sections/world/DailyNews/endangered_languages.html
-* "National Public Radio: _Endangered Languages_":http://web.archive.org/web/20020327121109/http://www.sciencefriday.com/pages/2002/Mar/hour2_030802.html
-* "Internet Week: _Ellis Island Project_":http://www.internetweek.com/reload01/reload050701.htm
-* "Avotaynu: _Ellis Island Project_":http://www.avotaynu.com/ellisisland.htm
-* "Boston Globe: _Vanishing tongues_":http://www.ldc.upenn.edu/exploration/boston-globe.txt
+* "_Digital Rosetta Stone wins software challenge_":http://www.theage.com.au/national/education/voice/digital-rosetta-stone-wins-software-challenge-20131209-2z0f7.html (Melbourne Voice)
+* "_Why can a robot build a car but not a bird's nest?_":http://www.abc.net.au/news/2013-08-02/birdandmeyer-computational-intelligence/4860008 (ABC Drum)
+* "_Passport: Steven Bird, computer scientist and preserver of old languages_":http://www.abc.net.au/radionational/programs/drive/passport3a-steven-bird2c-computer-scientist-and-preserver-of-/4766450 (ABC RN Drive)
+* "_Lost and found languages_":http://www.abc.net.au/radionational/programs/latenightlive/endangered-languages/4881164 (ABC RN Late Night Live)
+* "_Emerging writers of the Amazon: putting vanishing voices in print_":http://theconversation.com/emerging-writers-of-the-amazon-putting-vanishing-voices-in-print-14629 (The Conversation)
+* "_Androids in Amazonia: recording an endangered language_":http://theconversation.com/androids-in-amazonia-recording-an-endangered-language-12865 (The Conversation)
+* "_Meet cyberlinguist Steven Bird_":http://blogs.abc.net.au/nsw/2013/03/meet-cyberlinguist-steven-bird-.html (ABC NSW)
+* "_Cyberlinguistics: recording the world’s vanishing voices_":https://theconversation.com/cyberlinguistics-recording-the-worlds-vanishing-voices-12644 (The Conversation)
+* "_High schools to trial uni computer science in Y12_":http://www.theage.com.au/it-pro/business-it/high-schools-to-trial-uni-computer-science-in-y12-20120719-22c99.html (Melbourne Age)
+* "_So you think you are an IT expert?_":http://newsroom.melbourne.edu/news/n-854 (Melbourne University)
+* "_Mobile telephones helping to preserve PNG languages_":http://www.radioaustralia.net.au/pacific/radio/onairhighlights/mobile-telephones-helping-to-preserve-png-languages (Radio Australia)
+* "_IT researchers preserving remote PNG languages_":http://themelbourneengineer.eng.unimelb.edu.au/2012/02/it-researchers-preserving-the-remote-languages-of-png/ (The Melbourne Engineer)
+* "_Language technology_":http://ictupdate.cta.int/en/Regulars/Q-A/Q-A-Using-the-right-words (ICT Update)
+* "_Big brains coming back to Melbourne_":http://www.smh.com.au/news/next/big-brains-coming-back-to-melbourne/2005/12/05/1133631187436.html (Sydney Morning Herald)
+* "_Reversing the brain drain_":http://uninews.unimelb.edu.au/articleid_2985.html (Uni News)
+* "_Digital race to save languages_":http://news.bbc.co.uk/2/hi/technology/2857041.stm (BBC)
+* "_Global mission races to save dying languages_":http://uninews.unimelb.edu.au/articleid_359.html (Melbourne University)
+* "_Indigenous Language_":http://www.abc.net.au/rn/talks/brkfast/stories/s764119.htm (ABC RN Breakfast)
+* "_Word Up: Keeping Languages Alive_":http://wired.com/news/culture/0,1284,54345,00.html (Wired News)
+* "_Saving Dying Languages_":http://www.language-archives.org/documents/sciam.pdf (Scientific American)
+* "_Tongue-Tied_":http://web.archive.org/web/20040407091958/http://abcnews.go.com/sections/world/DailyNews/endangered_languages.html (ABCNews.com)
+* "_Endangered Languages_":http://web.archive.org/web/20020327121109/http://www.sciencefriday.com/pages/2002/Mar/hour2_030802.html (National Public Radio)
+* "_Ellis Island Project_":http://www.internetweek.com/reload01/reload050701.htm (Internet Week)
+* "_Ellis Island Project_":http://www.avotaynu.com/ellisisland.htm (Avotaynu)
+* "_Vanishing tongues_":http://www.ldc.upenn.edu/exploration/boston-globe.txt (Boston Globe)
 
 </div>
 
