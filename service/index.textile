@@ -6,6 +6,7 @@ title: Service
 h3. Leadership
 
 * Member of Program Committee for the 11th International Conference on the Computational Processing of Portuguese, São Carlos, Brazil (October 2014)
+* Member of Program Committee for the 14th International Conference on Computational Linguistics (COLING), Dublin, Ireland (August 2014)
 * Member of the Scientific Committee for the 9th International Conference on Language Resources and Evaluation (Reykjavik, Iceland (May 2014)
 * Member of Scientific Committee for the 9th International Conference on Language Resources and Evaluation
 * Co-organiser, "Computer Science for High School (CS4HS)":http://www.cis.unimelb.edu.au/industry/cs4hs.html, Melbourne University (2011, 2012, 2013)
