@@ -3,6 +3,17 @@ layout: page
 title: Service
 ---
 
+h3. Supervision
+
+* Florian Hanke: _Mobile software for language preservation_
+* Oliver Adams: _Bitext alignment for unwritten languages_
+* Sumukh Ghodke: _Scalable query for time-series annotations_
+* Quynh-Chi Nguyen: _Computational modelling of speech prosody_
+* Mat Bettinson: _Effect of respeaking on phonetic transcription accuracy_
+* Lauren Gawne: _Usability of mobile software in indigenous communities_
+* Richard Cox: _Algorithm production and educational implications_
+* Ping Tan: _Speech analysis for unwritten languages_
+
 h3. Leadership
 
 * Member of Program Committee for the 11th International Conference on the Computational Processing of Portuguese, São Carlos, Brazil (October 2014)
