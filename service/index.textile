@@ -5,16 +5,17 @@ title: Service
 
 h3. Supervision
 
-* Florian Hanke: _Mobile software for language preservation_
 * Oliver Adams: _Bitext alignment for unwritten languages_
-* Sumukh Ghodke: _Scalable query for time-series annotations_
-* Haejoong Lee: _Open language archives, prosodic systems_
-* Quynh-Chi Nguyen: _Computational modelling of speech prosody_
 * Mat Bettinson: _Effect of respeaking on phonetic transcription accuracy_
-* Lauren Gawne: _Usability of mobile software in indigenous communities_
 * Richard Cox: _Algorithm production and educational implications_
-* Ping Tan: _Speech analysis for unwritten languages_
+* Lauren Gawne: _Usability of mobile software in indigenous communities_
+* Sumukh Ghodke: _Scalable query for time-series annotations_
+* Florian Hanke: _Mobile software for language preservation_
+* Haejoong Lee: _Open language archives, prosodic systems_
+* Duong Thanh Long: _Universal part-of-speech tagging_
 * Mak Nazečić-Andrlon: _Software for teaching graph algorithms_
+* Quynh-Chi Nguyen: _Computational modelling of speech prosody_
+* Ping Tan: _Speech analysis for unwritten languages_
 * Steven Xu: _Natural Language Toolkit_
 
 h3. Leadership
