@@ -15,6 +15,7 @@ h3. Supervision
 * Richard Cox: _Algorithm production and educational implications_
 * Ping Tan: _Speech analysis for unwritten languages_
 * Mak Nazečić-Andrlon: _Software for teaching graph algorithms_
+* Steven Xu: _Natural Language Toolkit_
 
 h3. Leadership
 
