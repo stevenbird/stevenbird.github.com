@@ -7,6 +7,10 @@ h3. Natural Language Toolkit
 
 p. NLTK is a leading platform for building Python programs to work with human language data, including open source software and a free online book, available at "@http://nltk.org/@":http://nltk.org/ (collaboration with NLTK developers)
 
+h3. Aikuma
+
+p. Aikuma is an Android app for recording and translating spoken language, available at "@http://lp20.org/aikuma/@":http://lp20.org/aikuma/ (implemented by Florian Hanke and Oliver Adams)
+
 h3. Annotation Graph Toolkit
 
 p. AGTK provides C++ and Java libraries for manipulating Annotation Graphs, a general purpose representation for linguistic annotation, available at "@http://agtk.sourceforge.net/@":http://agtk.sourceforge.net/ (collaboration with the Linguistic Data Consortium)
