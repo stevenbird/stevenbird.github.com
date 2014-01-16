@@ -13,7 +13,7 @@ h3. Supervision
 * Florian Hanke: _Mobile software for language preservation_
 * Haejoong Lee: _Open language archives, prosodic systems_
 * Duong Thanh Long: _Universal part-of-speech tagging_
-* Mak Nazečić-Andrlon: _Software for teaching graph algorithms_
+* Mak Nazecic-Andrlon: _Software for teaching graph algorithms_
 * Quynh-Chi Nguyen: _Computational modelling of speech prosody_
 * Ping Tan: _Speech analysis for unwritten languages_
 * Steven Xu: _Natural Language Toolkit_
@@ -58,7 +58,7 @@ h3. Summer Schools
 
 h3. Plenary Talks
 
-* Current Trends in Language Documentation: Campinas, Brazil (2013)
+* "Current Trends in Language Documentation":http://workshopdoccampinas2013.com.br/?lang=en Campinas, Brazil (2013)
 * "International Conference on Papuan Cultural Diversity":http://icpcd.org/, Jayapura, Indonesia (2010)
 * "Digital Libraries for International Development":http://miksa.ils.unc.edu/dldev/program.html, Gold Coast, Australia (2010)
 * Open Language Data Working Group, Boston, USA (2010)
