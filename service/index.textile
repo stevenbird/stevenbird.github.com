@@ -11,7 +11,8 @@ h3. Supervision
 * Lauren Gawne: _Usability of mobile software in indigenous communities_
 * Sumukh Ghodke: _Scalable query for time-series annotations_
 * Florian Hanke: _Mobile software for language preservation_
-* Haejoong Lee: _Open language archives, prosodic systems_
+* Benjamin King: _Practical Natural Language Processing for Minority Languages_ (University of Michigan)
+* Haejoong Lee: _Open language archives, prosodic systems_ (University of Pennsylvania)
 * Duong Thanh Long: _Universal part-of-speech tagging_
 * Mak Nazecic-Andrlon: _Software for teaching graph algorithms_
 * Quynh-Chi Nguyen: _Computational modelling of speech prosody_
