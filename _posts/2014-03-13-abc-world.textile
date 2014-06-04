@@ -9,7 +9,7 @@ h1. {{ page.title }}
 
 A beautifully crafted documentary by Thom Cookes, which aired on ABC's program *The World*:
 
-!{width:30%}</images/the-world.png!:http://www.abc.net.au/news/2014-03-13/academics-team-up-to-save-dying-languages/5317010
+!</images/the-world.png!:http://www.abc.net.au/news/2014-03-13/academics-team-up-to-save-dying-languages/5317010
 
 
 
