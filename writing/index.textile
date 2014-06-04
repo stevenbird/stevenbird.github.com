@@ -16,6 +16,15 @@ h2. In preparation / in press
 * "How to study a tone language":http://www.toneworkshop.org/tone-book
   Steven Bird and Larry Hyman (editors)
 
+h2. 2014
+
+* "Aikuma: A Mobile App for Collaborative Language Documentation"
+  Steven Bird, Florian R. Hanke, Oliver Adams and Haejoong Lee,
+  _Workshop on the Use of Computational Methods in the Study of Endangered Languages_, Baltimore, USA
+* "Collecting bilingual audio in remote indigenous villages"
+  Steven Bird, Lauren Gawne, Katie Gelbart and Isaac McAlister,
+  _Proceedings of the 25th International Conference on Computational Linguistics_, Dublin, Ireland
+
 h2. 2013
 
 * "Increasing the quality and quantity of source language data for unsupervised cross-lingual POS tagging":http://www.aclweb.org/anthology/I13-1177
