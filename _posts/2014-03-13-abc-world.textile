@@ -9,11 +9,9 @@ h1. {{ page.title }}
 
 A beautifully crafted documentary about Aikuma by "Thom Cookes":http://thevideojourno.com/2013/03/25/thomcookes/ which aired on ABC's program *The World* (25/3/13):
 
-!</images/the-world.png!:http://www.abc.net.au/news/2014-03-13/academics-team-up-to-save-dying-languages/5317010
+!/images/the-world.png!:http://www.abc.net.au/news/2014-03-13/academics-team-up-to-save-dying-languages/5317010
 
 This video included a segment about "Lauren Gawne":http://unimelb.academia.edu/LaurenGawne and her work on "Kagate":https://www.ethnologue.com/language/syw (Nepal).
-
-
 
 
 
