@@ -18,12 +18,12 @@ h2. In preparation / in press
 
 h2. 2014
 
-* "Aikuma: A Mobile App for Collaborative Language Documentation"
-  Steven Bird, Florian R. Hanke, Oliver Adams and Haejoong Lee,
-  _Workshop on the Use of Computational Methods in the Study of Endangered Languages_, Baltimore, USA
 * "Collecting bilingual audio in remote indigenous villages"
   Steven Bird, Lauren Gawne, Katie Gelbart and Isaac McAlister,
   _Proceedings of the 25th International Conference on Computational Linguistics_, Dublin, Ireland
+* "Aikuma: A Mobile App for Collaborative Language Documentation":http://www.aclweb.org/anthology/W14-2201.pdf
+  Steven Bird, Florian R. Hanke, Oliver Adams and Haejoong Lee,
+  _Workshop on the Use of Computational Methods in the Study of Endangered Languages_, Baltimore, USA
 
 h2. 2013
 
