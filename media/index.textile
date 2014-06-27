@@ -7,6 +7,8 @@ description: ""
 
 <div id="writing">
 
+* "_Saving vanishing ‘tongues’_":https://student.societyforscience.org/article/saving-vanishing-tongues-3000-world-languages-face-extinction-apps-can-help-save-them
+* "_VCE students to be offered ‘super’ mathematics subject to help solve real-world problems_":http://www.news.com.au/national/victoria/vce-students-to-be-offered-super-mathematics-subject-to-help-solve-realworld-problems/story-fnii5sms-1226920601321
 * "_Digital Rosetta Stone wins software challenge_":http://www.theage.com.au/national/education/voice/digital-rosetta-stone-wins-software-challenge-20131209-2z0f7.html (Melbourne Voice)
 * "_Why can a robot build a car but not a bird's nest?_":http://www.abc.net.au/news/2013-08-02/birdandmeyer-computational-intelligence/4860008 (ABC Drum)
 * "_Passport: Steven Bird, computer scientist and preserver of old languages_":http://www.abc.net.au/radionational/programs/drive/passport3a-steven-bird2c-computer-scientist-and-preserver-of-/4766450 (ABC RN Drive)
