@@ -24,7 +24,7 @@ University of Melbourne, Victoria 3010, Australia
 
 p. Linguistic Data Consortium, University of Pennsylvania
 3600 Market Street, Philadelphia, PA 19104-2653, USA
-"@http://www.ldc.upenn.edu/sb@":http://www.ldc.upenn.edu/sb
+"@https://www.ldc.upenn.edu/staff/steven-bird@":https://www.ldc.upenn.edu/staff/steven-bird
 
 - Email: := @stevenbird1 (at) gmail.com@
 
