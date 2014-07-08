@@ -4,7 +4,7 @@ title: About
 ---
 
 <table cellspacing="10">
-<tr><td> !/images/steven.png! </td>
+<tr><td> !/images/steven_thumb.jpg!:/images/steven.jpg </td>
 <td>
 Associate Professor,
 Department of Computing and Information Systems
