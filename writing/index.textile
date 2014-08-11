@@ -18,7 +18,7 @@ h2. In preparation / in press
 
 h2. 2014
 
-* "Collecting bilingual audio in remote indigenous villages"
+* "Collecting bilingual audio in remote indigenous villages":http://www.aclweb.org/anthology/C14-1096.pdf
   Steven Bird, Lauren Gawne, Katie Gelbart and Isaac McAlister,
   _Proceedings of the 25th International Conference on Computational Linguistics_, Dublin, Ireland
 * "Aikuma: A Mobile App for Collaborative Language Documentation":http://www.aclweb.org/anthology/W14-2201.pdf
