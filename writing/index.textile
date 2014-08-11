@@ -20,10 +20,10 @@ h2. 2014
 
 * "Collecting bilingual audio in remote indigenous villages":http://www.aclweb.org/anthology/C14-1096.pdf
   Steven Bird, Lauren Gawne, Katie Gelbart and Isaac McAlister,
-  _Proceedings of the 25th International Conference on Computational Linguistics_, Dublin, Ireland
+  _Proceedings of the 25th International Conference on Computational Linguistics_, pp1015-1024, Dublin, Ireland
 * "Aikuma: A Mobile App for Collaborative Language Documentation":http://www.aclweb.org/anthology/W14-2201.pdf
   Steven Bird, Florian R. Hanke, Oliver Adams and Haejoong Lee,
-  _Workshop on the Use of Computational Methods in the Study of Endangered Languages_, Baltimore, USA
+  _Workshop on the Use of Computational Methods in the Study of Endangered Languages_, pp1-5, Baltimore, USA
 
 h2. 2013
 
