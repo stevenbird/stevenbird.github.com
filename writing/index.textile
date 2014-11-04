@@ -18,6 +18,11 @@ h2. In preparation / in press
 
 h2. 2014
 
+* 
+
+* "What can we get from 1000 tokens? A case study of multilingual POS tagging for resource-poor languages":http://www.aclweb.org/anthology/D14-1096.pdf
+  Long Duong, Trevor Cohn, Karin Verspoor, Steven Bird, and Paul Cook,
+  _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_, pp886–897, Doha, Qatar
 * "Collecting bilingual audio in remote indigenous villages":http://www.aclweb.org/anthology/C14-1096.pdf
   Steven Bird, Lauren Gawne, Katie Gelbart and Isaac McAlister,
   _Proceedings of the 25th International Conference on Computational Linguistics_, pp1015-1024, Dublin, Ireland
