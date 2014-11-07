@@ -11,15 +11,17 @@ View my publications via:
 
 <div id="writing">
 
-h2. In preparation / in press
+h2. In preparation
 
-* "How to study a tone language":http://www.toneworkshop.org/tone-book
-  Steven Bird and Larry Hyman (editors)
+* "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit (Second Edition)":http://nltk.org/book/
+  Steven Bird, Ewan Klein, and Edward Loper,
+  _O'Reilly Media_
 
 h2. 2014
 
-* 
-
+* "How to study a tone language":http://www.toneworkshop.org/tone-book
+  Steven Bird and Larry Hyman (editors)
+  _Language Documentation and Conservation_
 * "What can we get from 1000 tokens? A case study of multilingual POS tagging for resource-poor languages":http://www.aclweb.org/anthology/D14-1096.pdf
   Long Duong, Trevor Cohn, Karin Verspoor, Steven Bird, and Paul Cook,
   _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_, pp886–897, Doha, Qatar
