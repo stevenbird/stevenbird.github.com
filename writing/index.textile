@@ -13,7 +13,7 @@ View my publications via:
 
 h2. In preparation
 
-* "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit (Second Edition)":http://nltk.org/book/
+* "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit, Second Edition":http://nltk.org/book/
   Steven Bird, Ewan Klein, and Edward Loper,
   _O'Reilly Media_
 
