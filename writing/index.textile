@@ -22,6 +22,9 @@ h2. 2014
 * "How to study a tone language":http://www.toneworkshop.org/tone-book
   Steven Bird and Larry Hyman (editors)
   _Language Documentation and Conservation_
+* "Computational support for early elicitation and classification of tone﻿":http://hdl.handle.net/10125/24613
+  Steven Bird and Haejoong Lee
+  _Language Documentation and Conservation_ 8, 453—461
 * "What can we get from 1000 tokens? A case study of multilingual POS tagging for resource-poor languages":http://www.aclweb.org/anthology/D14-1096.pdf
   Long Duong, Trevor Cohn, Karin Verspoor, Steven Bird, and Paul Cook,
   _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_, pp886–897, Doha, Qatar
