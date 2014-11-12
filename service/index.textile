@@ -16,11 +16,10 @@ h3. Supervision
 * Duong Thanh Long: _Universal part-of-speech tagging_
 * Mak Nazecic-Andrlon: _Software for teaching graph algorithms_
 * Quynh-Chi Nguyen: _Computational modelling of speech prosody_
-* Ping Tan: _Speech analysis for unwritten languages_
-* Steven Xu: _Natural Language Toolkit_
 
 h3. Leadership
 
+* Associate Editor for ACM Transactions on Asian and Low-Resource Language Information Processing
 * Member of Program Committee for the 11th International Conference on the Computational Processing of Portuguese, São Carlos, Brazil (October 2014)
 * Member of Program Committee for the 14th International Conference on Computational Linguistics (COLING), Dublin, Ireland (August 2014)
 * Member of the Scientific Committee for the 9th International Conference on Language Resources and Evaluation (Reykjavik, Iceland (May 2014)
