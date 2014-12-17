@@ -20,7 +20,7 @@ h2. Contact
 
 p. Department of Computing and Information Systems
 University of Melbourne, Victoria 3010, Australia
-"@http://www.csse.unimelb.edu.au/~sb@":http://www.csse.unimelb.edu.au/~sb
+"@http://www.cis.unimelb.edu.au/people/staff.php?person_ID=9385@":http://www.cis.unimelb.edu.au/people/staff.php?person_ID=9385
 
 p. Linguistic Data Consortium, University of Pennsylvania
 3600 Market Street, Philadelphia, PA 19104-2653, USA
