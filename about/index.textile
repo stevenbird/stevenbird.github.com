@@ -9,6 +9,10 @@ title: About
 Associate Professor,
 Department of Computing and Information Systems
 University of Melbourne, Australia
+
+Research Scientist,
+International Computer Science Institute
+University of California, Berkeley
   
 Senior Research Associate,
 Linguistic Data Consortium, University of Pennsylvania, USA
@@ -21,6 +25,9 @@ h2. Contact
 p. Department of Computing and Information Systems
 University of Melbourne, Victoria 3010, Australia
 "@http://www.cis.unimelb.edu.au/people/staff.php?person_ID=9385@":http://www.cis.unimelb.edu.au/people/staff.php?person_ID=9385
+
+p. International Computer Science Institute, University of California Berkeley
+1947 Center Street, Ste 600, Berkeley, CA 94704
 
 p. Linguistic Data Consortium, University of Pennsylvania
 3600 Market Street, Philadelphia, PA 19104-2653, USA
