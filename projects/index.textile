@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-<table cellspacing="10">
+<table>
 <tr><td> !/images/boldapp.png! </td><td>&nbsp;&nbsp;</td><td>*Language Engineering in the Field*
 Investigating new approaches to language preservation using techniques from language engineering and leveraging the labour of mother-tongue speakers.<div id="note">&mdash; sponsored by the University of Melbourne, the Australian Research Council, and the Swiss National Science Foundation</div></td></tr>
 <tr><td> !/images/mt4lp.png! </td><td>&nbsp;&nbsp;</td><td>*Machine Translation for Language Preservation*
@@ -26,7 +26,7 @@ Combining web, database, and IR technologies for exploratory analysis of large a
 
 h3. Older Projects
 
-<table cellspacing="10">
+<table>
 <tr><td> !/images/talkbank.png!:http://www.talkbank.org/ </td><td>&nbsp;&nbsp;</td><td>*TalkBank (1999-2004)*
 Annotating databases of audio and video of communicative interaction, including child language, classroom discourse, gesture, and animal communication. <div id="note">&mdash; sponsored by National Science Foundation</div></td></tr><tr><td> !/images/cameroon-project.png!:http://www.ldc.upenn.edu/sb/home/papers/dictionary.pdf </td><td>&nbsp;&nbsp;</td><td>*Fieldwork in Cameroon, West Africa (1995-97)*
 A project to create the first dictionary of the Yemba language (300,000 speakers), coordinating a team of 15 language experts over a two-year period.</td></tr><tr><td> !/images/cameroon-tone.png!:http://www.ldc.upenn.edu/sb/fieldwork/ </td><td>&nbsp;&nbsp;</td><td>*Tone Analysis and Orthography Design (1995-97)*
