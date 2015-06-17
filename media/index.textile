@@ -7,6 +7,7 @@ description: ""
 
 <div id="writing">
 
+* "_Curious stories from my adventures in Amazonia, Melanesia and Central Asia_":http://www.apollobay.vic.au/component/content/article/46-current-events/334-apollo-bay-whats-on-2015#may15 (Apollo Bay Discussion Group)
 * "_The Front Line of Language Extinction_":http://blog.longnow.org/02015/04/17/the-front-line-of-language-extinction/ (Long Now Foundation)
 * "_It's All Academic: preserving old languages_":http://www.abc.net.au/radionational/programs/drive/it27s-all-academic3a-preserving-old-languages/6286892 (ABC RN Drive)
 * "_Language Preservation 2.0: Crowdsourcing oral language documentation using mobile devices_":http://scholarspace.manoa.hawaii.edu/bitstream/handle/10125/25309/25309.mp3 (ICLDC Conference)
