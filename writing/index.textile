@@ -16,8 +16,9 @@ h2. In preparation / in press
 * "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit, Second Edition":http://nltk.org/book/
   Steven Bird, Ewan Klein, and Edward Loper,
   _O'Reilly Media_
-* Cross-lingual Transfer for Unsupervised Dependency Parsing Without Parallel Data (CoNLL)
-* Low Resource Dependency Parsing: Cross-lingual Parameter Sharing in a Neural Network Parser (ACL)
+* Low-resource neural network modelling for universal dependency parsing (EMNLP)
+* Cross-lingual transfer for unsupervised dependency parsing without parallel data (CoNLL)
+* Low resource dependency parsing: Cross-lingual parameter sharing in a neural network parser (ACL)
 
 h2. 2014
 
