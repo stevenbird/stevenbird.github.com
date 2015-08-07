@@ -17,8 +17,12 @@ h2. In preparation / in press
   Steven Bird, Ewan Klein, and Edward Loper,
   _O'Reilly Media_
 * Low-resource neural network modelling for universal dependency parsing (EMNLP)
-* Cross-lingual transfer for unsupervised dependency parsing without parallel data (CoNLL)
-* Low resource dependency parsing: Cross-lingual parameter sharing in a neural network parser (ACL)
+* "Cross-lingual transfer for unsupervised dependency parsing without parallel data":http://www.anthology.aclweb.org/K/K15/K15-1012.pdf
+   Long Duong, Trevor Cohn, Steven Bird, and Paul Cook
+   _Proceedings of the 19th Conference on Computational Language Learning_, pp113–122, Beijing, China
+* "Low resource dependency parsing: Cross-lingual parameter sharing in a neural network parser":http://www.aclweb.org/anthology/P/P15/P15-2139.pdf
+   Long Duong, Trevor Cohn, Steven Bird, and Paul Cook
+   _Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics_, pp845–850, Beijing, China
 
 h2. 2014
 
